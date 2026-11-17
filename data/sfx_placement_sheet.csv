@@ -1,0 +1,97 @@
+sfx_name,file,start_frame,start_seconds,level,note
+opening_boom,assets/sfx/impact_boom_02.mp3,0,0.0,-12dB,Opening attention-grab impact
+word_pop,assets/sfx/click_002.wav,28,0.933,-16dB,सुख
+word_pop,assets/sfx/click_002.wav,34,1.133,-16dB,छैन
+word_pop,assets/sfx/click_002.wav,39,1.3,-16dB,"छैन,"
+word_pop,assets/sfx/click_002.wav,70,2.333,-16dB,सुख
+word_pop,assets/sfx/click_002.wav,76,2.533,-16dB,छैन
+word_pop,assets/sfx/click_002.wav,126,4.2,-16dB,Governmentले
+word_pop,assets/sfx/click_002.wav,148,4.933,-16dB,First
+word_pop,assets/sfx/click_002.wav,156,5.2,-16dB,Home
+word_pop,assets/sfx/click_002.wav,165,5.5,-16dB,Buyerहरूलाई
+word_pop,assets/sfx/click_002.wav,208,6.933,-16dB,5%
+word_pop,assets/sfx/click_002.wav,212,7.067,-16dB,Deposit
+word_pop,assets/sfx/click_002.wav,245,8.167,-16dB,Scheme
+word_pop,assets/sfx/click_002.wav,305,10.167,-16dB,Policy
+word_pop,assets/sfx/click_002.wav,352,11.733,-16dB,Deposit
+word_pop,assets/sfx/click_002.wav,443,14.767,-16dB,Retained
+word_pop,assets/sfx/click_002.wav,450,15.0,-16dB,Saving
+word_pop,assets/sfx/click_002.wav,480,16.0,-16dB,Minimum
+word_pop,assets/sfx/click_002.wav,491,16.367,-16dB,Criteria
+word_pop,assets/sfx/click_002.wav,599,19.967,-16dB,पाउनुहुन्थ्यो।
+word_pop,assets/sfx/click_002.wav,664,22.133,-16dB,होइन
+word_pop,assets/sfx/click_002.wav,694,23.133,-16dB,Housing
+word_pop,assets/sfx/click_002.wav,704,23.467,-16dB,Australia
+word_pop,assets/sfx/click_002.wav,716,23.867,-16dB,Governmentले
+word_pop,assets/sfx/click_002.wav,806,26.867,-16dB,Retained
+word_pop,assets/sfx/click_002.wav,818,27.267,-16dB,Saving
+word_pop,assets/sfx/click_002.wav,853,28.433,-16dB,"5%,"
+word_pop,assets/sfx/click_002.wav,901,30.033,-16dB,5%
+word_pop,assets/sfx/click_002.wav,906,30.2,-16dB,Deposit
+word_pop,assets/sfx/click_002.wav,924,30.8,-16dB,Scheme
+word_pop,assets/sfx/click_002.wav,960,32.0,-16dB,पाउनुहुन्न।
+word_pop,assets/sfx/click_002.wav,1019,33.967,-16dB,defeats
+word_pop,assets/sfx/click_002.wav,1090,36.333,-16dB,होइन?
+word_pop,assets/sfx/click_002.wav,1101,36.7,-16dB,5%
+word_pop,assets/sfx/click_002.wav,1110,37.0,-16dB,Deposit
+word_pop,assets/sfx/click_002.wav,1121,37.367,-16dB,Scheme
+word_pop,assets/sfx/click_002.wav,1385,46.167,-16dB,Scheme
+word_pop,assets/sfx/click_002.wav,1468,48.933,-16dB,पाउनुहुन्न।
+word_pop,assets/sfx/click_002.wav,1572,52.4,-16dB,सक्नुहुन्छ।
+word_pop,assets/sfx/click_002.wav,1727,57.567,-16dB,महिनाको
+word_pop,assets/sfx/click_002.wav,1777,59.233,-16dB,Expenses
+word_pop,assets/sfx/click_002.wav,1797,59.9,-16dB,सक्नुहुन्छ।
+word_pop,assets/sfx/click_002.wav,1829,60.967,-16dB,House
+word_pop,assets/sfx/click_002.wav,1844,61.467,-16dB,Land
+word_pop,assets/sfx/click_002.wav,1872,62.4,-16dB,Construction
+word_pop,assets/sfx/click_002.wav,1883,62.767,-16dB,Loan
+word_pop,assets/sfx/click_002.wav,1972,65.733,-16dB,5%
+word_pop,assets/sfx/click_002.wav,1983,66.1,-16dB,10%
+word_pop,assets/sfx/click_002.wav,2045,68.167,-16dB,सक्नुहुन्छ
+word_pop,assets/sfx/click_002.wav,2086,69.533,-16dB,Retained
+word_pop,assets/sfx/click_002.wav,2100,70.0,-16dB,Savingको
+word_pop,assets/sfx/click_002.wav,2130,71.0,-16dB,Criteria
+word_pop,assets/sfx/click_002.wav,2189,72.967,-16dB,Governmentले
+word_pop,assets/sfx/click_002.wav,2212,73.733,-16dB,Change
+word_pop,assets/sfx/click_002.wav,2280,76.0,-16dB,5%
+word_pop,assets/sfx/click_002.wav,2287,76.233,-16dB,Deposit
+word_pop,assets/sfx/click_002.wav,2294,76.467,-16dB,Scheme
+word_pop,assets/sfx/click_002.wav,2346,78.2,-16dB,Planningमा
+word_pop,assets/sfx/click_002.wav,2528,84.267,-16dB,Phaseमा
+word_pop,assets/sfx/click_002.wav,2550,85.0,-16dB,Plan
+coin_ting,assets/sfx/coin_chime_01.mp3,208,6.933,-14dB,5%
+coin_ting,assets/sfx/coin_chime_01.mp3,599,19.967,-14dB,पाउनुहुन्थ्यो।
+coin_ting,assets/sfx/coin_chime_01.mp3,853,28.433,-14dB,"5%,"
+coin_ting,assets/sfx/coin_chime_01.mp3,901,30.033,-14dB,5%
+coin_ting,assets/sfx/coin_chime_01.mp3,1101,36.7,-14dB,5%
+coin_ting,assets/sfx/coin_chime_01.mp3,1572,52.4,-14dB,सक्नुहुन्छ।
+coin_ting,assets/sfx/coin_chime_01.mp3,1727,57.567,-14dB,महिनाको
+coin_ting,assets/sfx/coin_chime_01.mp3,1797,59.9,-14dB,सक्नुहुन्छ।
+coin_ting,assets/sfx/coin_chime_01.mp3,1972,65.733,-14dB,5%
+coin_ting,assets/sfx/coin_chime_01.mp3,1983,66.1,-14dB,10%
+coin_ting,assets/sfx/coin_chime_01.mp3,2045,68.167,-14dB,सक्नुहुन्छ
+coin_ting,assets/sfx/coin_chime_01.mp3,2280,76.0,-14dB,5%
+error_buzz,assets/sfx/error_003.wav,28,0.933,-14dB,सुख
+error_buzz,assets/sfx/error_003.wav,34,1.133,-14dB,छैन
+error_buzz,assets/sfx/error_003.wav,39,1.3,-14dB,"छैन,"
+error_buzz,assets/sfx/error_003.wav,70,2.333,-14dB,सुख
+error_buzz,assets/sfx/error_003.wav,76,2.533,-14dB,छैन
+error_buzz,assets/sfx/error_003.wav,664,22.133,-14dB,होइन
+error_buzz,assets/sfx/error_003.wav,960,32.0,-14dB,पाउनुहुन्न।
+error_buzz,assets/sfx/error_003.wav,1019,33.967,-14dB,defeats
+error_buzz,assets/sfx/error_003.wav,1090,36.333,-14dB,होइन?
+error_buzz,assets/sfx/error_003.wav,1468,48.933,-14dB,पाउनुहुन्न।
+error_buzz,assets/sfx/error_003.wav,2212,73.733,-14dB,Change
+row_whoosh,assets/sfx/whoosh_01.mp3,212,7.067,-14dB,The Reality / OLD: Bank Policy
+row_whoosh,assets/sfx/whoosh_01.mp3,491,16.367,-14dB,The Reality / Minimum Criteria
+row_whoosh,assets/sfx/whoosh_01.mp3,694,23.133,-14dB,The Reality / NEW: Gov Rule
+row_whoosh,assets/sfx/whoosh_01.mp3,1510,50.333,-14dB,How to Protect Yourself / Bigger Deposit
+row_whoosh,assets/sfx/whoosh_01.mp3,1748,58.267,-14dB,How to Protect Yourself / 6 mo Living Expenses
+row_whoosh,assets/sfx/whoosh_01.mp3,1872,62.4,-14dB,How to Protect Yourself / Extra 5-10%
+panel_title_tick,assets/sfx/toggle_002.wav,126,4.2,-14dB,The Reality
+panel_title_tick,assets/sfx/toggle_002.wav,1510,50.333,-14dB,How to Protect Yourself
+pivot_scratch,assets/sfx/scratch_002.wav,920,30.667,-14dB,Record-scratch pivot just before the restriction motif
+motif_impact,assets/sfx/impact_boom_01.mp3,930,31.0,-12dB,Impact as the coin-stack / restriction motif lands
+motif_confirm,assets/sfx/confirmation_002.wav,938,31.267,-14dB,Confirmation ding as the house settles on the stack
+cta_riser,assets/sfx/riser_01.mp3,2316,77.2,-16dB,1s riser building into the CTA card
+cta_click,assets/sfx/click_004.wav,2356,78.533,-16dB,Click as the CTA card settles

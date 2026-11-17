@@ -1,0 +1,14 @@
+Transcript text (253 words):
+पैसा थोरै हुँदा त सुख छैन छैन, अब धेरै हुँदा पनि सुख छैन भनेजस्तो चाहिँ भयो। किन भन्दाखेरि Governmentले चाहिँ अब First Home Buyerहरूलाई पहिले पहिले 5% Deposit Scheme युज गर्दाखेरि चाहिँ बैंकहरूको Poli...
+
+Loading whisper model (base)...
+Aligning audio to known transcript text...
+Align:   0%|          | 0/87.1 [00:00<?, ?sec/s]Align:  31%|###       | 26.96/87.1 [00:05<00:12,  4.71sec/s]Align:  34%|###3      | 29.4/87.1 [00:09<00:19,  2.91sec/s] Align:  42%|####2     | 36.76/87.1 [00:12<00:19,  2.62sec/s]Align:  56%|#####6    | 49.08/87.1 [00:15<00:12,  3.04sec/s]Align:  63%|######3   | 54.94/87.1 [00:18<00:12,  2.64sec/s]Align:  68%|######7   | 59.18/87.1 [00:22<00:12,  2.22sec/s]Align:  74%|#######4  | 64.78/87.1 [00:25<00:10,  2.04sec/s]Align:  84%|########4 | 73.44/87.1 [00:28<00:06,  2.24sec/s]Align:  87%|########7 | 75.82/87.1 [00:31<00:06,  1.79sec/s]Align:  87%|########7 | 76.02/87.1 [00:34<00:08,  1.27sec/s]Align:  91%|#########1| 79.44/87.1 [00:38<00:06,  1.21sec/s]Align:  99%|#########9| 86.4/87.1 [00:41<00:00,  1.50sec/s] Align: 100%|#########9| 87.0/87.1 [00:44<00:00,  1.10sec/s]Align: 100%|##########| 87.1/87.1 [00:47<00:00,  1.83sec/s]
+C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\stable_whisper\alignment.py:211: UserWarning: Failed to align the last 197/253 words after 01:27.040.
+  result = aligner.align(audio, text)
+Adjustment:   0%|          | 0/87.1 [00:00<?, ?sec/s]Adjustment: 100%|##########| 87.1/87.1 [00:00<00:00, 43475.41sec/s]
+C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\stable_whisper\alignment.py:211: UserWarning: 24/33 segments failed to align.
+  result = aligner.align(audio, text)
+
+✓ Wrote 254 words to E:\video-edit\video\data\words.json
+  Last word end frame: 2613 (~87.1s)

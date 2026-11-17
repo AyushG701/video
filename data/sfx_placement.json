@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "fps": 30,
+    "durationFrames": 2607,
+    "durationSeconds": 86.9,
+    "note": "All startFrame values are real frame numbers against data/captions.json timing."
+  },
+  "music": {
+    "file": "assets/music/music_bed.mp3",
+    "startFrame": 0,
+    "durationFrames": 2607,
+    "level": "-25dB (ducks to -30dB under speech, swells to -22dB at CTA)",
+    "description": "Instrumental, no-vocal bed — verified via spectrogram inspection"
+  },
+  "sfx": [
+    {
+      "name": "opening_boom",
+      "file": "assets/sfx/impact_boom_02.mp3",
+      "startFrame": 0,
+      "level": "-12dB",
+      "description": "Opening attention-grab impact"
+    },
+    {
+      "name": "word_pop",
+      "file": "assets/sfx/click_002.wav",
+      "placements": [
+        {
+          "startFrame": 28,
+          "level": "-16dB",
+          "note": "सुख"
+        },
+        {
+          "startFrame": 34,
+          "level": "-16dB",
+          "note": "छैन"
+        },
+        {
+          "startFrame": 39,
+          "level": "-16dB",
+          "note": "छैन,"
+        },
+        {
+          "startFrame": 70,
+          "level": "-16dB",
+          "note": "सुख"
+        },
+        {
+          "startFrame": 76,
+          "level": "-16dB",
+          "note": "छैन"
+        },
+        {
+          "startFrame": 126,
+          "level": "-16dB",
+          "note": "Governmentले"
+        },
+        {
+          "startFrame": 148,
+          "level": "-16dB",
+          "note": "First"
+        },
+        {
+          "startFrame": 156,
+          "level": "-16dB",
+          "note": "Home"
+        },
+        {
+          "startFrame": 165,
+          "level": "-16dB",
+          "note": "Buyerहरूलाई"
+        },
+        {
+          "startFrame": 208,
+          "level": "-16dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 212,
+          "level": "-16dB",
+          "note": "Deposit"
+        },
+        {
+          "startFrame": 245,
+          "level": "-16dB",
+          "note": "Scheme"
+        },
+        {
+          "startFrame": 305,
+          "level": "-16dB",
+          "note": "Policy"
+        },
+        {
+          "startFrame": 352,
+          "level": "-16dB",
+          "note": "Deposit"
+        },
+        {
+          "startFrame": 443,
+          "level": "-16dB",
+          "note": "Retained"
+        },
+        {
+          "startFrame": 450,
+          "level": "-16dB",
+          "note": "Saving"
+        },
+        {
+          "startFrame": 480,
+          "level": "-16dB",
+          "note": "Minimum"
+        },
+        {
+          "startFrame": 491,
+          "level": "-16dB",
+          "note": "Criteria"
+        },
+        {
+          "startFrame": 599,
+          "level": "-16dB",
+          "note": "पाउनुहुन्थ्यो।"
+        },
+        {
+          "startFrame": 664,
+          "level": "-16dB",
+          "note": "होइन"
+        },
+        {
+          "startFrame": 694,
+          "level": "-16dB",
+          "note": "Housing"
+        },
+        {
+          "startFrame": 704,
+          "level": "-16dB",
+          "note": "Australia"
+        },
+        {
+          "startFrame": 716,
+          "level": "-16dB",
+          "note": "Governmentले"
+        },
+        {
+          "startFrame": 806,
+          "level": "-16dB",
+          "note": "Retained"
+        },
+        {
+          "startFrame": 818,
+          "level": "-16dB",
+          "note": "Saving"
+        },
+        {
+          "startFrame": 853,
+          "level": "-16dB",
+          "note": "5%,"
+        },
+        {
+          "startFrame": 901,
+          "level": "-16dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 906,
+          "level": "-16dB",
+          "note": "Deposit"
+        },
+        {
+          "startFrame": 924,
+          "level": "-16dB",
+          "note": "Scheme"
+        },
+        {
+          "startFrame": 960,
+          "level": "-16dB",
+          "note": "पाउनुहुन्न।"
+        },
+        {
+          "startFrame": 1019,
+          "level": "-16dB",
+          "note": "defeats"
+        },
+        {
+          "startFrame": 1090,
+          "level": "-16dB",
+          "note": "होइन?"
+        },
+        {
+          "startFrame": 1101,
+          "level": "-16dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 1110,
+          "level": "-16dB",
+          "note": "Deposit"
+        },
+        {
+          "startFrame": 1121,
+          "level": "-16dB",
+          "note": "Scheme"
+        },
+        {
+          "startFrame": 1385,
+          "level": "-16dB",
+          "note": "Scheme"
+        },
+        {
+          "startFrame": 1468,
+          "level": "-16dB",
+          "note": "पाउनुहुन्न।"
+        },
+        {
+          "startFrame": 1572,
+          "level": "-16dB",
+          "note": "सक्नुहुन्छ।"
+        },
+        {
+          "startFrame": 1727,
+          "level": "-16dB",
+          "note": "महिनाको"
+        },
+        {
+          "startFrame": 1777,
+          "level": "-16dB",
+          "note": "Expenses"
+        },
+        {
+          "startFrame": 1797,
+          "level": "-16dB",
+          "note": "सक्नुहुन्छ।"
+        },
+        {
+          "startFrame": 1829,
+          "level": "-16dB",
+          "note": "House"
+        },
+        {
+          "startFrame": 1844,
+          "level": "-16dB",
+          "note": "Land"
+        },
+        {
+          "startFrame": 1872,
+          "level": "-16dB",
+          "note": "Construction"
+        },
+        {
+          "startFrame": 1883,
+          "level": "-16dB",
+          "note": "Loan"
+        },
+        {
+          "startFrame": 1972,
+          "level": "-16dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 1983,
+          "level": "-16dB",
+          "note": "10%"
+        },
+        {
+          "startFrame": 2045,
+          "level": "-16dB",
+          "note": "सक्नुहुन्छ"
+        },
+        {
+          "startFrame": 2086,
+          "level": "-16dB",
+          "note": "Retained"
+        },
+        {
+          "startFrame": 2100,
+          "level": "-16dB",
+          "note": "Savingको"
+        },
+        {
+          "startFrame": 2130,
+          "level": "-16dB",
+          "note": "Criteria"
+        },
+        {
+          "startFrame": 2189,
+          "level": "-16dB",
+          "note": "Governmentले"
+        },
+        {
+          "startFrame": 2212,
+          "level": "-16dB",
+          "note": "Change"
+        },
+        {
+          "startFrame": 2280,
+          "level": "-16dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 2287,
+          "level": "-16dB",
+          "note": "Deposit"
+        },
+        {
+          "startFrame": 2294,
+          "level": "-16dB",
+          "note": "Scheme"
+        },
+        {
+          "startFrame": 2346,
+          "level": "-16dB",
+          "note": "Planningमा"
+        },
+        {
+          "startFrame": 2528,
+          "level": "-16dB",
+          "note": "Phaseमा"
+        },
+        {
+          "startFrame": 2550,
+          "level": "-16dB",
+          "note": "Plan"
+        }
+      ],
+      "description": "Soft pop on every emphasized (colored) word"
+    },
+    {
+      "name": "coin_ting",
+      "file": "assets/sfx/coin_chime_01.mp3",
+      "placements": [
+        {
+          "startFrame": 208,
+          "level": "-14dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 599,
+          "level": "-14dB",
+          "note": "पाउनुहुन्थ्यो।"
+        },
+        {
+          "startFrame": 853,
+          "level": "-14dB",
+          "note": "5%,"
+        },
+        {
+          "startFrame": 901,
+          "level": "-14dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 1101,
+          "level": "-14dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 1572,
+          "level": "-14dB",
+          "note": "सक्नुहुन्छ।"
+        },
+        {
+          "startFrame": 1727,
+          "level": "-14dB",
+          "note": "महिनाको"
+        },
+        {
+          "startFrame": 1797,
+          "level": "-14dB",
+          "note": "सक्नुहुन्छ।"
+        },
+        {
+          "startFrame": 1972,
+          "level": "-14dB",
+          "note": "5%"
+        },
+        {
+          "startFrame": 1983,
+          "level": "-14dB",
+          "note": "10%"
+        },
+        {
+          "startFrame": 2045,
+          "level": "-14dB",
+          "note": "सक्नुहुन्छ"
+        },
+        {
+          "startFrame": 2280,
+          "level": "-14dB",
+          "note": "5%"
+        }
+      ],
+      "description": "Bright chime on money/percentage/allowed-exception words"
+    },
+    {
+      "name": "error_buzz",
+      "file": "assets/sfx/error_003.wav",
+      "placements": [
+        {
+          "startFrame": 28,
+          "level": "-14dB",
+          "note": "सुख"
+        },
+        {
+          "startFrame": 34,
+          "level": "-14dB",
+          "note": "छैन"
+        },
+        {
+          "startFrame": 39,
+          "level": "-14dB",
+          "note": "छैन,"
+        },
+        {
+          "startFrame": 70,
+          "level": "-14dB",
+          "note": "सुख"
+        },
+        {
+          "startFrame": 76,
+          "level": "-14dB",
+          "note": "छैन"
+        },
+        {
+          "startFrame": 664,
+          "level": "-14dB",
+          "note": "होइन"
+        },
+        {
+          "startFrame": 960,
+          "level": "-14dB",
+          "note": "पाउनुहुन्न।"
+        },
+        {
+          "startFrame": 1019,
+          "level": "-14dB",
+          "note": "defeats"
+        },
+        {
+          "startFrame": 1090,
+          "level": "-14dB",
+          "note": "होइन?"
+        },
+        {
+          "startFrame": 1468,
+          "level": "-14dB",
+          "note": "पाउनुहुन्न।"
+        },
+        {
+          "startFrame": 2212,
+          "level": "-14dB",
+          "note": "Change"
+        }
+      ],
+      "description": "Buzz on restriction/negative words"
+    },
+    {
+      "name": "row_whoosh",
+      "file": "assets/sfx/whoosh_01.mp3",
+      "placements": [
+        {
+          "startFrame": 212,
+          "level": "-14dB",
+          "note": "The Reality / OLD: Bank Policy"
+        },
+        {
+          "startFrame": 491,
+          "level": "-14dB",
+          "note": "The Reality / Minimum Criteria"
+        },
+        {
+          "startFrame": 694,
+          "level": "-14dB",
+          "note": "The Reality / NEW: Gov Rule"
+        },
+        {
+          "startFrame": 1510,
+          "level": "-14dB",
+          "note": "How to Protect Yourself / Bigger Deposit"
+        },
+        {
+          "startFrame": 1748,
+          "level": "-14dB",
+          "note": "How to Protect Yourself / 6 mo Living Expenses"
+        },
+        {
+          "startFrame": 1872,
+          "level": "-14dB",
+          "note": "How to Protect Yourself / Extra 5-10%"
+        }
+      ],
+      "description": "Whoosh on each icon-tile row sliding up"
+    },
+    {
+      "name": "panel_title_tick",
+      "file": "assets/sfx/toggle_002.wav",
+      "placements": [
+        {
+          "startFrame": 126,
+          "level": "-14dB",
+          "note": "The Reality"
+        },
+        {
+          "startFrame": 1510,
+          "level": "-14dB",
+          "note": "How to Protect Yourself"
+        }
+      ],
+      "description": "Soft tick as each panel title appears"
+    },
+    {
+      "name": "pivot_scratch",
+      "file": "assets/sfx/scratch_002.wav",
+      "startFrame": 920,
+      "level": "-14dB",
+      "description": "Record-scratch pivot just before the restriction motif"
+    },
+    {
+      "name": "motif_impact",
+      "file": "assets/sfx/impact_boom_01.mp3",
+      "startFrame": 930,
+      "level": "-12dB",
+      "description": "Impact as the coin-stack / restriction motif lands"
+    },
+    {
+      "name": "motif_confirm",
+      "file": "assets/sfx/confirmation_002.wav",
+      "startFrame": 938,
+      "level": "-14dB",
+      "description": "Confirmation ding as the house settles on the stack"
+    },
+    {
+      "name": "cta_riser",
+      "file": "assets/sfx/riser_01.mp3",
+      "startFrame": 2316,
+      "level": "-16dB",
+      "description": "1s riser building into the CTA card"
+    },
+    {
+      "name": "cta_click",
+      "file": "assets/sfx/click_004.wav",
+      "startFrame": 2356,
+      "level": "-16dB",
+      "description": "Click as the CTA card settles"
+    }
+  ],
+  "mixing": {
+    "vocal": {
+      "target": "-6 to -3 dB LUFS-ish",
+      "chain": "highpass 80Hz -> de-ess 5-7kHz -> compress 3:1 @ -15dB threshold"
+    },
+    "music_bed": {
+      "level": "-25dB",
+      "sidechain_keyed_to": "vocal",
+      "threshold": "-18dB",
+      "ratio": "4:1",
+      "attack_ms": 10,
+      "release_ms": 250
+    },
+    "sfx": {
+      "level": "-14 to -16dB"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "logLevel": "info",
+  "output-dir": "./out",
+  "public-dir": "./public"
+}

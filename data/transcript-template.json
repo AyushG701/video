@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "fps": 30,
+    "durationSeconds": 87,
+    "durationFrames": 2610,
+    "language": "Nepali-English",
+    "speaker": "Your Name"
+  },
+  "captions": [
+    {
+      "text": "पैसा थोरै",
+      "startFrame": 0,
+      "endFrame": 72,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "x": 540,
+      "y": 960
+    },
+    {
+      "text": "हुँदा त",
+      "startFrame": 72,
+      "endFrame": 150,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46
+    }
+  ],
+  "panels": [
+    {
+      "title": "The Reality",
+      "startFrame": 240,
+      "rows": [
+        {
+          "iconName": "bank",
+          "label": "OLD: Bank Policy",
+          "value": "5% Deposit Scheme",
+          "startFrame": 360
+        },
+        {
+          "iconName": "ruler",
+          "label": "Minimum Criteria",
+          "value": "Required amount",
+          "startFrame": 630
+        }
+      ]
+    }
+  ],
+  "motifs": [
+    {
+      "type": "coin-stack",
+      "startFrame": 1050,
+      "x": 540,
+      "y": 600,
+      "coinCount": 4
+    },
+    {
+      "type": "cta-card",
+      "text": "let's make a plan together →",
+      "startFrame": 2340,
+      "x": 540,
+      "y": 1800
+    }
+  ],
+  "sfx": [
+    {
+      "file": "assets/sfx/sub_boom.wav",
+      "startFrame": 1,
+      "volume": -12
+    },
+    {
+      "file": "assets/sfx/word_pop.wav",
+      "startFrame": 72,
+      "volume": -16
+    }
+  ]
+}

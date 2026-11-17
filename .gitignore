@@ -1,0 +1,11 @@
+node_modules/
+dist/
+out/
+*.mov
+*.mp4
+*.png
+.env
+.env.local
+.DS_Store
+*.log
+tools/ffmpeg-master-latest-win64-gpl/

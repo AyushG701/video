@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "name": "yatri-mortgage-nepali",
+    "version": "1.0.0",
+    "currency": "AUD",
+    "fps": 30,
+    "durationFrames": 2610,
+    "durationSeconds": 87
+  },
+  "canvas": {
+    "w": 1080,
+    "h": 1920,
+    "fps": 30
+  },
+  "layout": {
+    "videoFrame": {
+      "x": 40,
+      "y": 330,
+      "w": 1000,
+      "h": 640,
+      "radius": 28,
+      "border": "#FFFFFF",
+      "borderPx": 6
+    },
+    "infoPanel": {
+      "x": 0,
+      "y": 1010,
+      "w": 1080,
+      "h": 910,
+      "bg": "#F7F6F2",
+      "dotGrid": true,
+      "dotColor": "#D9D6CF",
+      "dotSpacing": 48,
+      "dotRadius": 2
+    },
+    "logo": {
+      "x": 540,
+      "y": 120,
+      "anchor": "center",
+      "w": 64,
+      "h": 64,
+      "radius": 12,
+      "bg": "#F2C230"
+    }
+  },
+  "palette": {
+    "ink": "#1B2A4A",
+    "caption": "#FFFFFF",
+    "captionShadow": "#00000066",
+    "yellow": "#F2C230",
+    "gold": "#E8B923",
+    "red": "#E23B2E",
+    "green": "#2E9E4F",
+    "hudYellow": "#F2C230",
+    "panelText": "#1B2A4A",
+    "iconTileBg": "#F2C230",
+    "panelBg": "#F7F6F2",
+    "dotGrid": "#D9D6CF"
+  },
+  "fonts": {
+    "nepali": "Noto Sans Devanagari",
+    "sans": "Montserrat",
+    "chunky": "Archivo Black",
+    "mono": "JetBrains Mono",
+    "cta": "Nunito",
+    "money": "Montserrat"
+  },
+  "motion": {
+    "spring": {
+      "damping": 12,
+      "stiffness": 200,
+      "mass": 1
+    },
+    "wordStaggerFrames": 3,
+    "exitFrames": 4,
+    "overshoot": 1.08,
+    "rowSlideFrames": 10,
+    "rowEase": "easeOutBack",
+    "listRowGapPx": 120,
+    "listRowIconPx": 64,
+    "listRowTextPx": 46
+  },
+  "grade": {
+    "contrast": 12,
+    "saturation": 8,
+    "warmth": 4,
+    "vignette": 18,
+    "grain": 6,
+    "sharpen": 18,
+    "denoise": 10
+  },
+  "export": {
+    "format": "prores4444-alpha",
+    "alt": "png-sequence",
+    "alpha": true
+  },
+  "content": {
+    "fixedCaptions": {
+      "chinaToLiving": "China Expenses → Living Expenses",
+      "retained": "Retained Savings",
+      "deposit": "5% Deposit Scheme",
+      "minimumCriteria": "Minimum Criteria"
+    }
+  }
+}

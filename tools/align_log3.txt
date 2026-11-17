@@ -1,0 +1,14 @@
+Transcript text (253 words):
+पैसा थोरै हुँदा त सुख छैन छैन, अब धेरै हुँदा पनि सुख छैन भनेजस्तो चाहिँ भयो। किन भन्दाखेरि Governmentले चाहिँ अब First Home Buyerहरूलाई पहिले पहिले 5% Deposit Scheme युज गर्दाखेरि चाहिँ बैंकहरूको Poli...
+
+Loading whisper model (base)...
+Aligning audio to known transcript text...
+Align:   0%|          | 0/87.1 [00:00<?, ?sec/s]Align:  34%|###3      | 29.34/87.1 [00:05<00:10,  5.26sec/s]Align:  35%|###5      | 30.62/87.1 [00:06<00:13,  4.26sec/s]Align:  37%|###7      | 32.28/87.1 [00:08<00:15,  3.47sec/s]Align:  42%|####1     | 36.4/87.1 [00:09<00:14,  3.44sec/s] Align:  42%|####2     | 36.94/87.1 [00:10<00:19,  2.63sec/s]Align:  43%|####2     | 37.16/87.1 [00:11<00:25,  1.92sec/s]Align:  50%|####9     | 43.3/87.1 [00:14<00:20,  2.17sec/s] Align:  54%|#####3    | 46.62/87.1 [00:15<00:17,  2.29sec/s]Align:  60%|#####9    | 52.2/87.1 [00:16<00:12,  2.87sec/s] Align:  61%|######1   | 53.3/87.1 [00:18<00:14,  2.29sec/s]Align:  63%|######2   | 54.68/87.1 [00:19<00:16,  1.97sec/s]Align:  65%|######5   | 56.82/87.1 [00:20<00:15,  1.90sec/s]Align:  69%|######8   | 59.76/87.1 [00:21<00:13,  2.03sec/s]Align:  72%|#######1  | 62.68/87.1 [00:23<00:11,  2.13sec/s]Align:  77%|#######6  | 66.78/87.1 [00:24<00:08,  2.48sec/s]Align:  79%|#######8  | 68.46/87.1 [00:25<00:08,  2.17sec/s]Align:  83%|########2 | 71.96/87.1 [00:27<00:08,  1.81sec/s]Align:  87%|########6 | 75.56/87.1 [00:29<00:05,  2.09sec/s]Align:  96%|#########6| 84.02/87.1 [00:30<00:00,  3.37sec/s]Align: 100%|#########9| 87.06/87.1 [00:31<00:00,  3.16sec/s]Align: 100%|##########| 87.1/87.1 [00:31<00:00,  2.76sec/s] 
+C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\stable_whisper\alignment.py:211: UserWarning: Failed to align the last 186/253 words after 01:27.060.
+  result = aligner.align(audio, text)
+Adjustment:   0%|          | 0/87.1 [00:00<?, ?sec/s]Adjustment: 100%|##########| 87.1/87.1 [00:00<00:00, 29046.98sec/s]
+C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\stable_whisper\alignment.py:211: UserWarning: 23/32 segments failed to align.
+  result = aligner.align(audio, text)
+
+✓ Wrote 254 words to E:\video-edit\video\data\words.json
+  Last word end frame: 2613 (~87.1s)

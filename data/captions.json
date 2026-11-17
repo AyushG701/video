@@ -1,0 +1,5280 @@
+{
+  "meta": {
+    "fps": 30,
+    "durationFrames": 2607,
+    "durationSeconds": 86.9,
+    "source": "rawtrascript.txt + ffmpeg silencedetect (pause-anchored fallback, no ML alignment)"
+  },
+  "captions": [
+    {
+      "text": "पैसा",
+      "startFrame": 0,
+      "endFrame": 8,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 0
+    },
+    {
+      "text": "थोरै",
+      "startFrame": 11,
+      "endFrame": 18,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 1
+    },
+    {
+      "text": "हुँदा",
+      "startFrame": 18,
+      "endFrame": 26,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 2
+    },
+    {
+      "text": "त",
+      "startFrame": 26,
+      "endFrame": 28,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 3
+    },
+    {
+      "text": "सुख",
+      "startFrame": 28,
+      "endFrame": 34,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 4
+    },
+    {
+      "text": "छैन",
+      "startFrame": 34,
+      "endFrame": 39,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 5
+    },
+    {
+      "text": "छैन,",
+      "startFrame": 39,
+      "endFrame": 46,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 6
+    },
+    {
+      "text": "अब",
+      "startFrame": 46,
+      "endFrame": 50,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 7
+    },
+    {
+      "text": "धेरै",
+      "startFrame": 50,
+      "endFrame": 57,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 8
+    },
+    {
+      "text": "हुँदा",
+      "startFrame": 57,
+      "endFrame": 65,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 9
+    },
+    {
+      "text": "पनि",
+      "startFrame": 65,
+      "endFrame": 70,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 10
+    },
+    {
+      "text": "सुख",
+      "startFrame": 70,
+      "endFrame": 76,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 11
+    },
+    {
+      "text": "छैन",
+      "startFrame": 76,
+      "endFrame": 81,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 12
+    },
+    {
+      "text": "भनेजस्तो",
+      "startFrame": 81,
+      "endFrame": 93,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 13
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 93,
+      "endFrame": 101,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 14
+    },
+    {
+      "text": "भयो।",
+      "startFrame": 101,
+      "endFrame": 108,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 15
+    },
+    {
+      "text": "किन",
+      "startFrame": 108,
+      "endFrame": 113,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 16
+    },
+    {
+      "text": "भन्दाखेरि",
+      "startFrame": 116,
+      "endFrame": 119,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 17
+    },
+    {
+      "text": "Governmentले",
+      "startFrame": 126,
+      "endFrame": 131,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 18
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 135,
+      "endFrame": 141,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 19
+    },
+    {
+      "text": "अब",
+      "startFrame": 144,
+      "endFrame": 148,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 20
+    },
+    {
+      "text": "First",
+      "startFrame": 148,
+      "endFrame": 156,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 21
+    },
+    {
+      "text": "Home",
+      "startFrame": 156,
+      "endFrame": 162,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 22
+    },
+    {
+      "text": "Buyerहरूलाई",
+      "startFrame": 165,
+      "endFrame": 187,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 23
+    },
+    {
+      "text": "पहिले",
+      "startFrame": 191,
+      "endFrame": 200,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 24
+    },
+    {
+      "text": "पहिले",
+      "startFrame": 200,
+      "endFrame": 208,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 25
+    },
+    {
+      "text": "5%",
+      "startFrame": 208,
+      "endFrame": 212,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 26
+    },
+    {
+      "text": "Deposit",
+      "startFrame": 212,
+      "endFrame": 223,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 27
+    },
+    {
+      "text": "Scheme",
+      "startFrame": 245,
+      "endFrame": 259,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 28
+    },
+    {
+      "text": "युज",
+      "startFrame": 259,
+      "endFrame": 267,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 29
+    },
+    {
+      "text": "गर्दाखेरि",
+      "startFrame": 270,
+      "endFrame": 283,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 30
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 283,
+      "endFrame": 291,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 31
+    },
+    {
+      "text": "बैंकहरूको",
+      "startFrame": 291,
+      "endFrame": 305,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 32
+    },
+    {
+      "text": "Policy",
+      "startFrame": 305,
+      "endFrame": 314,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 33
+    },
+    {
+      "text": "हुन्थ्यो",
+      "startFrame": 317,
+      "endFrame": 320,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 34
+    },
+    {
+      "text": "कि",
+      "startFrame": 327,
+      "endFrame": 331,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 35
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 331,
+      "endFrame": 341,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 36
+    },
+    {
+      "text": "आफूले",
+      "startFrame": 344,
+      "endFrame": 352,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 37
+    },
+    {
+      "text": "Deposit",
+      "startFrame": 352,
+      "endFrame": 362,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 38
+    },
+    {
+      "text": "गरे",
+      "startFrame": 362,
+      "endFrame": 367,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 39
+    },
+    {
+      "text": "पछाडि",
+      "startFrame": 370,
+      "endFrame": 380,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 40
+    },
+    {
+      "text": "बाँकी",
+      "startFrame": 394,
+      "endFrame": 403,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 41
+    },
+    {
+      "text": "बस्ने",
+      "startFrame": 403,
+      "endFrame": 412,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 42
+    },
+    {
+      "text": "पैसा",
+      "startFrame": 412,
+      "endFrame": 419,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 43
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 422,
+      "endFrame": 436,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 44
+    },
+    {
+      "text": "Retained",
+      "startFrame": 443,
+      "endFrame": 447,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 45
+    },
+    {
+      "text": "Saving",
+      "startFrame": 450,
+      "endFrame": 462,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 46
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 466,
+      "endFrame": 474,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 47
+    },
+    {
+      "text": "एउटा",
+      "startFrame": 474,
+      "endFrame": 480,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 48
+    },
+    {
+      "text": "Minimum",
+      "startFrame": 480,
+      "endFrame": 491,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 49
+    },
+    {
+      "text": "Criteria",
+      "startFrame": 491,
+      "endFrame": 503,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 50
+    },
+    {
+      "text": "बनाइदिएको",
+      "startFrame": 503,
+      "endFrame": 516,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 51
+    },
+    {
+      "text": "हुन्छ।",
+      "startFrame": 531,
+      "endFrame": 541,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 52
+    },
+    {
+      "text": "त्योअनुसार",
+      "startFrame": 541,
+      "endFrame": 557,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 53
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 560,
+      "endFrame": 575,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 54
+    },
+    {
+      "text": "राख्न",
+      "startFrame": 578,
+      "endFrame": 596,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 55
+    },
+    {
+      "text": "पाउनुहुन्थ्यो।",
+      "startFrame": 599,
+      "endFrame": 618,
+      "colorTag": "green",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 56
+    },
+    {
+      "text": "तर",
+      "startFrame": 624,
+      "endFrame": 631,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 57
+    },
+    {
+      "text": "अब",
+      "startFrame": 634,
+      "endFrame": 635,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 58
+    },
+    {
+      "text": "बैंकले",
+      "startFrame": 638,
+      "endFrame": 648,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 59
+    },
+    {
+      "text": "मात्रै",
+      "startFrame": 651,
+      "endFrame": 664,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 60
+    },
+    {
+      "text": "होइन",
+      "startFrame": 664,
+      "endFrame": 674,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 61
+    },
+    {
+      "text": "Housing",
+      "startFrame": 694,
+      "endFrame": 704,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 62
+    },
+    {
+      "text": "Australia",
+      "startFrame": 704,
+      "endFrame": 716,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 63
+    },
+    {
+      "text": "Governmentले",
+      "startFrame": 716,
+      "endFrame": 732,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 64
+    },
+    {
+      "text": "नै",
+      "startFrame": 732,
+      "endFrame": 736,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 65
+    },
+    {
+      "text": "के",
+      "startFrame": 739,
+      "endFrame": 746,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 66
+    },
+    {
+      "text": "भन्न",
+      "startFrame": 746,
+      "endFrame": 757,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 67
+    },
+    {
+      "text": "थालेको",
+      "startFrame": 760,
+      "endFrame": 769,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 68
+    },
+    {
+      "text": "छ",
+      "startFrame": 769,
+      "endFrame": 772,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 69
+    },
+    {
+      "text": "भन्दाखेरि",
+      "startFrame": 775,
+      "endFrame": 781,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 70
+    },
+    {
+      "text": "Retained",
+      "startFrame": 806,
+      "endFrame": 818,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 71
+    },
+    {
+      "text": "Saving",
+      "startFrame": 818,
+      "endFrame": 827,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 72
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 827,
+      "endFrame": 835,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 73
+    },
+    {
+      "text": "अब",
+      "startFrame": 835,
+      "endFrame": 839,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 74
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 842,
+      "endFrame": 848,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 75
+    },
+    {
+      "text": "5%,",
+      "startFrame": 853,
+      "endFrame": 858,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 76
+    },
+    {
+      "text": "तपाईंसँग",
+      "startFrame": 858,
+      "endFrame": 869,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 77
+    },
+    {
+      "text": "टन्नै",
+      "startFrame": 869,
+      "endFrame": 877,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 78
+    },
+    {
+      "text": "पैसा",
+      "startFrame": 877,
+      "endFrame": 883,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 79
+    },
+    {
+      "text": "छ",
+      "startFrame": 883,
+      "endFrame": 886,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 80
+    },
+    {
+      "text": "तर",
+      "startFrame": 897,
+      "endFrame": 901,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 81
+    },
+    {
+      "text": "5%",
+      "startFrame": 901,
+      "endFrame": 906,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 82
+    },
+    {
+      "text": "Deposit",
+      "startFrame": 906,
+      "endFrame": 918,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 83
+    },
+    {
+      "text": "Scheme",
+      "startFrame": 924,
+      "endFrame": 927,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 84
+    },
+    {
+      "text": "युज",
+      "startFrame": 931,
+      "endFrame": 936,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 85
+    },
+    {
+      "text": "गर्छु",
+      "startFrame": 936,
+      "endFrame": 944,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 86
+    },
+    {
+      "text": "भन्न",
+      "startFrame": 944,
+      "endFrame": 950,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 87
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 950,
+      "endFrame": 960,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 88
+    },
+    {
+      "text": "पाउनुहुन्न।",
+      "startFrame": 960,
+      "endFrame": 975,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 89
+    },
+    {
+      "text": "Because",
+      "startFrame": 978,
+      "endFrame": 991,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 90
+    },
+    {
+      "text": "that",
+      "startFrame": 991,
+      "endFrame": 999,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 91
+    },
+    {
+      "text": "actually",
+      "startFrame": 999,
+      "endFrame": 1013,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 92
+    },
+    {
+      "text": "defeats",
+      "startFrame": 1019,
+      "endFrame": 1032,
+      "colorTag": "red",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 93
+    },
+    {
+      "text": "the",
+      "startFrame": 1032,
+      "endFrame": 1038,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 94
+    },
+    {
+      "text": "purpose",
+      "startFrame": 1064,
+      "endFrame": 1076,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 95
+    },
+    {
+      "text": "नि",
+      "startFrame": 1076,
+      "endFrame": 1081,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 96
+    },
+    {
+      "text": "त,",
+      "startFrame": 1084,
+      "endFrame": 1090,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 97
+    },
+    {
+      "text": "होइन?",
+      "startFrame": 1090,
+      "endFrame": 1101,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 98
+    },
+    {
+      "text": "5%",
+      "startFrame": 1101,
+      "endFrame": 1107,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 99
+    },
+    {
+      "text": "Deposit",
+      "startFrame": 1110,
+      "endFrame": 1121,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 100
+    },
+    {
+      "text": "Scheme",
+      "startFrame": 1121,
+      "endFrame": 1130,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 101
+    },
+    {
+      "text": "भनेको",
+      "startFrame": 1130,
+      "endFrame": 1138,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 102
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 1138,
+      "endFrame": 1146,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 103
+    },
+    {
+      "text": "someone",
+      "startFrame": 1149,
+      "endFrame": 1153,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 104
+    },
+    {
+      "text": "जोसँग",
+      "startFrame": 1158,
+      "endFrame": 1165,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 105
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 1178,
+      "endFrame": 1183,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 106
+    },
+    {
+      "text": "lower",
+      "startFrame": 1188,
+      "endFrame": 1198,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 107
+    },
+    {
+      "text": "savings",
+      "startFrame": 1200,
+      "endFrame": 1212,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 108
+    },
+    {
+      "text": "छ,",
+      "startFrame": 1212,
+      "endFrame": 1217,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 109
+    },
+    {
+      "text": "थोरै",
+      "startFrame": 1217,
+      "endFrame": 1224,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 110
+    },
+    {
+      "text": "savings",
+      "startFrame": 1227,
+      "endFrame": 1238,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 111
+    },
+    {
+      "text": "छ,",
+      "startFrame": 1242,
+      "endFrame": 1245,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 112
+    },
+    {
+      "text": "उनीहरूले",
+      "startFrame": 1261,
+      "endFrame": 1275,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 113
+    },
+    {
+      "text": "युज",
+      "startFrame": 1275,
+      "endFrame": 1281,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 114
+    },
+    {
+      "text": "गर्ने",
+      "startFrame": 1281,
+      "endFrame": 1290,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 115
+    },
+    {
+      "text": "भन्न",
+      "startFrame": 1290,
+      "endFrame": 1297,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 116
+    },
+    {
+      "text": "खोजेको",
+      "startFrame": 1297,
+      "endFrame": 1308,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 117
+    },
+    {
+      "text": "हो।",
+      "startFrame": 1308,
+      "endFrame": 1314,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 118
+    },
+    {
+      "text": "तर",
+      "startFrame": 1314,
+      "endFrame": 1318,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 119
+    },
+    {
+      "text": "तपाईंसँग",
+      "startFrame": 1321,
+      "endFrame": 1324,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 120
+    },
+    {
+      "text": "धेरै",
+      "startFrame": 1327,
+      "endFrame": 1331,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 121
+    },
+    {
+      "text": "savings",
+      "startFrame": 1349,
+      "endFrame": 1359,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 122
+    },
+    {
+      "text": "हुँदाहुँदै",
+      "startFrame": 1359,
+      "endFrame": 1373,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 123
+    },
+    {
+      "text": "पनि",
+      "startFrame": 1373,
+      "endFrame": 1378,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 124
+    },
+    {
+      "text": "त्यो",
+      "startFrame": 1378,
+      "endFrame": 1385,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 125
+    },
+    {
+      "text": "Scheme",
+      "startFrame": 1385,
+      "endFrame": 1393,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 126
+    },
+    {
+      "text": "युज",
+      "startFrame": 1393,
+      "endFrame": 1398,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 127
+    },
+    {
+      "text": "गरेर",
+      "startFrame": 1398,
+      "endFrame": 1405,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 128
+    },
+    {
+      "text": "अरू",
+      "startFrame": 1405,
+      "endFrame": 1410,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 129
+    },
+    {
+      "text": "पैसा",
+      "startFrame": 1413,
+      "endFrame": 1422,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 130
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 1422,
+      "endFrame": 1434,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 131
+    },
+    {
+      "text": "राख्छु",
+      "startFrame": 1443,
+      "endFrame": 1454,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 132
+    },
+    {
+      "text": "भन्न",
+      "startFrame": 1457,
+      "endFrame": 1464,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 133
+    },
+    {
+      "text": "पाउनुहुन्न।",
+      "startFrame": 1468,
+      "endFrame": 1477,
+      "colorTag": "red",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 134
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 1484,
+      "endFrame": 1497,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 135
+    },
+    {
+      "text": "certain",
+      "startFrame": 1510,
+      "endFrame": 1525,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 136
+    },
+    {
+      "text": "पैसा",
+      "startFrame": 1525,
+      "endFrame": 1535,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 137
+    },
+    {
+      "text": "राख्नु",
+      "startFrame": 1538,
+      "endFrame": 1542,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 138
+    },
+    {
+      "text": "राख्न",
+      "startFrame": 1549,
+      "endFrame": 1570,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 139
+    },
+    {
+      "text": "सक्नुहुन्छ।",
+      "startFrame": 1572,
+      "endFrame": 1583,
+      "colorTag": "green",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 140
+    },
+    {
+      "text": "जस्तै",
+      "startFrame": 1589,
+      "endFrame": 1601,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 141
+    },
+    {
+      "text": "for",
+      "startFrame": 1601,
+      "endFrame": 1608,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 142
+    },
+    {
+      "text": "example",
+      "startFrame": 1611,
+      "endFrame": 1624,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 143
+    },
+    {
+      "text": "उनीहरूले",
+      "startFrame": 1624,
+      "endFrame": 1638,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 144
+    },
+    {
+      "text": "के",
+      "startFrame": 1638,
+      "endFrame": 1643,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 145
+    },
+    {
+      "text": "भनेका",
+      "startFrame": 1660,
+      "endFrame": 1665,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 146
+    },
+    {
+      "text": "छन्",
+      "startFrame": 1668,
+      "endFrame": 1676,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 147
+    },
+    {
+      "text": "भने",
+      "startFrame": 1676,
+      "endFrame": 1684,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 148
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 1696,
+      "endFrame": 1707,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 149
+    },
+    {
+      "text": "घर",
+      "startFrame": 1707,
+      "endFrame": 1711,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 150
+    },
+    {
+      "text": "किनिसकेर",
+      "startFrame": 1711,
+      "endFrame": 1724,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 151
+    },
+    {
+      "text": "छ",
+      "startFrame": 1724,
+      "endFrame": 1727,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 152
+    },
+    {
+      "text": "महिनाको",
+      "startFrame": 1727,
+      "endFrame": 1738,
+      "colorTag": "green",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 153
+    },
+    {
+      "text": "लागि",
+      "startFrame": 1740,
+      "endFrame": 1742,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 154
+    },
+    {
+      "text": "Living",
+      "startFrame": 1748,
+      "endFrame": 1760,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 155
+    },
+    {
+      "text": "Expenses",
+      "startFrame": 1777,
+      "endFrame": 1789,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 156
+    },
+    {
+      "text": "राख्न",
+      "startFrame": 1789,
+      "endFrame": 1797,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 157
+    },
+    {
+      "text": "सक्नुहुन्छ।",
+      "startFrame": 1797,
+      "endFrame": 1814,
+      "colorTag": "green",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 158
+    },
+    {
+      "text": "त्यसैगरी",
+      "startFrame": 1814,
+      "endFrame": 1826,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 159
+    },
+    {
+      "text": "House",
+      "startFrame": 1829,
+      "endFrame": 1835,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 160
+    },
+    {
+      "text": "and",
+      "startFrame": 1838,
+      "endFrame": 1844,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 161
+    },
+    {
+      "text": "Land",
+      "startFrame": 1844,
+      "endFrame": 1851,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 162
+    },
+    {
+      "text": "अथवा",
+      "startFrame": 1854,
+      "endFrame": 1862,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 163
+    },
+    {
+      "text": "Construction",
+      "startFrame": 1872,
+      "endFrame": 1880,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 164
+    },
+    {
+      "text": "Loan",
+      "startFrame": 1883,
+      "endFrame": 1891,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 165
+    },
+    {
+      "text": "गर्दै",
+      "startFrame": 1894,
+      "endFrame": 1897,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 166
+    },
+    {
+      "text": "हुनुहुन्छ",
+      "startFrame": 1901,
+      "endFrame": 1908,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 167
+    },
+    {
+      "text": "भने",
+      "startFrame": 1910,
+      "endFrame": 1913,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 168
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 1923,
+      "endFrame": 1933,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 169
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 1943,
+      "endFrame": 1946,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 170
+    },
+    {
+      "text": "फेरि",
+      "startFrame": 1949,
+      "endFrame": 1956,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 171
+    },
+    {
+      "text": "अर्को",
+      "startFrame": 1956,
+      "endFrame": 1964,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 172
+    },
+    {
+      "text": "extra",
+      "startFrame": 1964,
+      "endFrame": 1972,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 173
+    },
+    {
+      "text": "5%",
+      "startFrame": 1972,
+      "endFrame": 1976,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 174
+    },
+    {
+      "text": "देखि",
+      "startFrame": 1976,
+      "endFrame": 1983,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 175
+    },
+    {
+      "text": "10%",
+      "startFrame": 1983,
+      "endFrame": 1988,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 176
+    },
+    {
+      "text": "सम्म",
+      "startFrame": 1995,
+      "endFrame": 1998,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 177
+    },
+    {
+      "text": "राख्न",
+      "startFrame": 2003,
+      "endFrame": 2021,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 178
+    },
+    {
+      "text": "सक्नुहुन्छ",
+      "startFrame": 2045,
+      "endFrame": 2059,
+      "colorTag": "green",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 179
+    },
+    {
+      "text": "भनेर",
+      "startFrame": 2059,
+      "endFrame": 2066,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 180
+    },
+    {
+      "text": "भनेको",
+      "startFrame": 2066,
+      "endFrame": 2074,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 181
+    },
+    {
+      "text": "छ।",
+      "startFrame": 2074,
+      "endFrame": 2078,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 182
+    },
+    {
+      "text": "सो",
+      "startFrame": 2078,
+      "endFrame": 2082,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 183
+    },
+    {
+      "text": "यो",
+      "startFrame": 2082,
+      "endFrame": 2086,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 184
+    },
+    {
+      "text": "Retained",
+      "startFrame": 2086,
+      "endFrame": 2097,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 185
+    },
+    {
+      "text": "Savingको",
+      "startFrame": 2100,
+      "endFrame": 2112,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 186
+    },
+    {
+      "text": "Criteria",
+      "startFrame": 2130,
+      "endFrame": 2142,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 187
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 2144,
+      "endFrame": 2152,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 188
+    },
+    {
+      "text": "नि",
+      "startFrame": 2152,
+      "endFrame": 2156,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 189
+    },
+    {
+      "text": "फेरि",
+      "startFrame": 2162,
+      "endFrame": 2173,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 190
+    },
+    {
+      "text": "अहिले",
+      "startFrame": 2173,
+      "endFrame": 2186,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 191
+    },
+    {
+      "text": "Governmentले",
+      "startFrame": 2189,
+      "endFrame": 2206,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 192
+    },
+    {
+      "text": "Change",
+      "startFrame": 2212,
+      "endFrame": 2218,
+      "colorTag": "red",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 193
+    },
+    {
+      "text": "गरेको",
+      "startFrame": 2224,
+      "endFrame": 2232,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 194
+    },
+    {
+      "text": "छ।",
+      "startFrame": 2232,
+      "endFrame": 2236,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 195
+    },
+    {
+      "text": "त्यसो",
+      "startFrame": 2236,
+      "endFrame": 2244,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 196
+    },
+    {
+      "text": "भएर",
+      "startFrame": 2246,
+      "endFrame": 2250,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 197
+    },
+    {
+      "text": "अहिले",
+      "startFrame": 2253,
+      "endFrame": 2261,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 198
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 2261,
+      "endFrame": 2269,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 199
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 2269,
+      "endFrame": 2280,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 200
+    },
+    {
+      "text": "5%",
+      "startFrame": 2280,
+      "endFrame": 2284,
+      "colorTag": "green",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 201
+    },
+    {
+      "text": "Deposit",
+      "startFrame": 2287,
+      "endFrame": 2290,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 202
+    },
+    {
+      "text": "Scheme",
+      "startFrame": 2294,
+      "endFrame": 2306,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 203
+    },
+    {
+      "text": "अँमा",
+      "startFrame": 2323,
+      "endFrame": 2329,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 204
+    },
+    {
+      "text": "घर",
+      "startFrame": 2329,
+      "endFrame": 2333,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 205
+    },
+    {
+      "text": "किन्ने",
+      "startFrame": 2333,
+      "endFrame": 2342,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 206
+    },
+    {
+      "text": "Planningमा",
+      "startFrame": 2346,
+      "endFrame": 2368,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 207
+    },
+    {
+      "text": "हुनुहुन्छ",
+      "startFrame": 2386,
+      "endFrame": 2402,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 208
+    },
+    {
+      "text": "भने",
+      "startFrame": 2404,
+      "endFrame": 2411,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 209
+    },
+    {
+      "text": "अलिकति",
+      "startFrame": 2411,
+      "endFrame": 2424,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 210
+    },
+    {
+      "text": "Thoughtful",
+      "startFrame": 2426,
+      "endFrame": 2441,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 211
+    },
+    {
+      "text": "भएर",
+      "startFrame": 2441,
+      "endFrame": 2446,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 212
+    },
+    {
+      "text": "यसमा",
+      "startFrame": 2446,
+      "endFrame": 2453,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 213
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 2453,
+      "endFrame": 2460,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 214
+    },
+    {
+      "text": "तपाईंले",
+      "startFrame": 2465,
+      "endFrame": 2471,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 215
+    },
+    {
+      "text": "काम",
+      "startFrame": 2475,
+      "endFrame": 2480,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 216
+    },
+    {
+      "text": "गर्नुपर्ने",
+      "startFrame": 2480,
+      "endFrame": 2496,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 217
+    },
+    {
+      "text": "हुन्छ।",
+      "startFrame": 2496,
+      "endFrame": 2505,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 218
+    },
+    {
+      "text": "तपाईं",
+      "startFrame": 2505,
+      "endFrame": 2513,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 219
+    },
+    {
+      "text": "पनि",
+      "startFrame": 2513,
+      "endFrame": 2519,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 220
+    },
+    {
+      "text": "त्यो",
+      "startFrame": 2519,
+      "endFrame": 2526,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 221
+    },
+    {
+      "text": "Phaseमा",
+      "startFrame": 2528,
+      "endFrame": 2542,
+      "colorTag": "yellow",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 222
+    },
+    {
+      "text": "हुनुहुन्छ,",
+      "startFrame": 2544,
+      "endFrame": 2546,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 223
+    },
+    {
+      "text": "Plan",
+      "startFrame": 2550,
+      "endFrame": 2560,
+      "colorTag": "yellow",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 224
+    },
+    {
+      "text": "गर्दै",
+      "startFrame": 2560,
+      "endFrame": 2571,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 225
+    },
+    {
+      "text": "हुनुहुन्छ,",
+      "startFrame": 2574,
+      "endFrame": 2588,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 226
+    },
+    {
+      "text": "in",
+      "startFrame": 2588,
+      "endFrame": 2592,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 227
+    },
+    {
+      "text": "the",
+      "startFrame": 2594,
+      "endFrame": 2595,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 228
+    },
+    {
+      "text": "next",
+      "startFrame": 2595,
+      "endFrame": 2595,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 229
+    },
+    {
+      "text": "one,",
+      "startFrame": 2595,
+      "endFrame": 2595,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 230
+    },
+    {
+      "text": "three,",
+      "startFrame": 2595,
+      "endFrame": 2596,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 231
+    },
+    {
+      "text": "six",
+      "startFrame": 2596,
+      "endFrame": 2597,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 232
+    },
+    {
+      "text": "monthsमा",
+      "startFrame": 2597,
+      "endFrame": 2597,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 233
+    },
+    {
+      "text": "अथवा",
+      "startFrame": 2597,
+      "endFrame": 2598,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 234
+    },
+    {
+      "text": "even",
+      "startFrame": 2598,
+      "endFrame": 2598,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 235
+    },
+    {
+      "text": "एक",
+      "startFrame": 2598,
+      "endFrame": 2599,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 236
+    },
+    {
+      "text": "वर्षमा",
+      "startFrame": 2599,
+      "endFrame": 2599,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 237
+    },
+    {
+      "text": "भने",
+      "startFrame": 2599,
+      "endFrame": 2600,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 238
+    },
+    {
+      "text": "चाहिँ",
+      "startFrame": 2600,
+      "endFrame": 2600,
+      "colorTag": "white",
+      "fontFamily": "Noto Sans Devanagari",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 239
+    },
+    {
+      "text": "please",
+      "startFrame": 2600,
+      "endFrame": 2601,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 240
+    },
+    {
+      "text": "feel",
+      "startFrame": 2601,
+      "endFrame": 2602,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 241
+    },
+    {
+      "text": "free",
+      "startFrame": 2602,
+      "endFrame": 2602,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 242
+    },
+    {
+      "text": "to",
+      "startFrame": 2602,
+      "endFrame": 2602,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 243
+    },
+    {
+      "text": "reach",
+      "startFrame": 2602,
+      "endFrame": 2603,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 244
+    },
+    {
+      "text": "out",
+      "startFrame": 2603,
+      "endFrame": 2603,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 245
+    },
+    {
+      "text": "to",
+      "startFrame": 2603,
+      "endFrame": 2604,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 246
+    },
+    {
+      "text": "me,",
+      "startFrame": 2604,
+      "endFrame": 2604,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 247
+    },
+    {
+      "text": "let's",
+      "startFrame": 2604,
+      "endFrame": 2605,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 248
+    },
+    {
+      "text": "make",
+      "startFrame": 2605,
+      "endFrame": 2605,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 249
+    },
+    {
+      "text": "a",
+      "startFrame": 2605,
+      "endFrame": 2605,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 250
+    },
+    {
+      "text": "plan",
+      "startFrame": 2605,
+      "endFrame": 2606,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 251
+    },
+    {
+      "text": "together.",
+      "startFrame": 2606,
+      "endFrame": 2607,
+      "colorTag": "white",
+      "fontFamily": "Montserrat",
+      "fontSize": 46,
+      "fontWeight": 700,
+      "wordIndex": 252
+    }
+  ],
+  "lines": [
+    [
+      {
+        "text": "पैसा",
+        "startFrame": 0,
+        "endFrame": 8,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 0
+      },
+      {
+        "text": "थोरै",
+        "startFrame": 11,
+        "endFrame": 18,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 1
+      },
+      {
+        "text": "हुँदा",
+        "startFrame": 18,
+        "endFrame": 26,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 2
+      },
+      {
+        "text": "त",
+        "startFrame": 26,
+        "endFrame": 28,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 3
+      }
+    ],
+    [
+      {
+        "text": "सुख",
+        "startFrame": 28,
+        "endFrame": 34,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 4
+      },
+      {
+        "text": "छैन",
+        "startFrame": 34,
+        "endFrame": 39,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 5
+      },
+      {
+        "text": "छैन,",
+        "startFrame": 39,
+        "endFrame": 46,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 6
+      },
+      {
+        "text": "अब",
+        "startFrame": 46,
+        "endFrame": 50,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 7
+      }
+    ],
+    [
+      {
+        "text": "धेरै",
+        "startFrame": 50,
+        "endFrame": 57,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 8
+      },
+      {
+        "text": "हुँदा",
+        "startFrame": 57,
+        "endFrame": 65,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 9
+      },
+      {
+        "text": "पनि",
+        "startFrame": 65,
+        "endFrame": 70,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 10
+      },
+      {
+        "text": "सुख",
+        "startFrame": 70,
+        "endFrame": 76,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 11
+      }
+    ],
+    [
+      {
+        "text": "छैन",
+        "startFrame": 76,
+        "endFrame": 81,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 12
+      },
+      {
+        "text": "भनेजस्तो",
+        "startFrame": 81,
+        "endFrame": 93,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 13
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 93,
+        "endFrame": 101,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 14
+      },
+      {
+        "text": "भयो।",
+        "startFrame": 101,
+        "endFrame": 108,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 15
+      }
+    ],
+    [
+      {
+        "text": "किन",
+        "startFrame": 108,
+        "endFrame": 113,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 16
+      },
+      {
+        "text": "भन्दाखेरि",
+        "startFrame": 116,
+        "endFrame": 119,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 17
+      },
+      {
+        "text": "Governmentले",
+        "startFrame": 126,
+        "endFrame": 131,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 18
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 135,
+        "endFrame": 141,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 19
+      }
+    ],
+    [
+      {
+        "text": "अब",
+        "startFrame": 144,
+        "endFrame": 148,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 20
+      },
+      {
+        "text": "First",
+        "startFrame": 148,
+        "endFrame": 156,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 21
+      },
+      {
+        "text": "Home",
+        "startFrame": 156,
+        "endFrame": 162,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 22
+      },
+      {
+        "text": "Buyerहरूलाई",
+        "startFrame": 165,
+        "endFrame": 187,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 23
+      }
+    ],
+    [
+      {
+        "text": "पहिले",
+        "startFrame": 191,
+        "endFrame": 200,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 24
+      },
+      {
+        "text": "पहिले",
+        "startFrame": 200,
+        "endFrame": 208,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 25
+      },
+      {
+        "text": "5%",
+        "startFrame": 208,
+        "endFrame": 212,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 26
+      },
+      {
+        "text": "Deposit",
+        "startFrame": 212,
+        "endFrame": 223,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 27
+      }
+    ],
+    [
+      {
+        "text": "Scheme",
+        "startFrame": 245,
+        "endFrame": 259,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 28
+      },
+      {
+        "text": "युज",
+        "startFrame": 259,
+        "endFrame": 267,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 29
+      },
+      {
+        "text": "गर्दाखेरि",
+        "startFrame": 270,
+        "endFrame": 283,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 30
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 283,
+        "endFrame": 291,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 31
+      }
+    ],
+    [
+      {
+        "text": "बैंकहरूको",
+        "startFrame": 291,
+        "endFrame": 305,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 32
+      },
+      {
+        "text": "Policy",
+        "startFrame": 305,
+        "endFrame": 314,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 33
+      },
+      {
+        "text": "हुन्थ्यो",
+        "startFrame": 317,
+        "endFrame": 320,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 34
+      },
+      {
+        "text": "कि",
+        "startFrame": 327,
+        "endFrame": 331,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 35
+      }
+    ],
+    [
+      {
+        "text": "तपाईंले",
+        "startFrame": 331,
+        "endFrame": 341,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 36
+      },
+      {
+        "text": "आफूले",
+        "startFrame": 344,
+        "endFrame": 352,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 37
+      },
+      {
+        "text": "Deposit",
+        "startFrame": 352,
+        "endFrame": 362,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 38
+      },
+      {
+        "text": "गरे",
+        "startFrame": 362,
+        "endFrame": 367,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 39
+      }
+    ],
+    [
+      {
+        "text": "पछाडि",
+        "startFrame": 370,
+        "endFrame": 380,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 40
+      }
+    ],
+    [
+      {
+        "text": "बाँकी",
+        "startFrame": 394,
+        "endFrame": 403,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 41
+      },
+      {
+        "text": "बस्ने",
+        "startFrame": 403,
+        "endFrame": 412,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 42
+      },
+      {
+        "text": "पैसा",
+        "startFrame": 412,
+        "endFrame": 419,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 43
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 422,
+        "endFrame": 436,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 44
+      }
+    ],
+    [
+      {
+        "text": "Retained",
+        "startFrame": 443,
+        "endFrame": 447,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 45
+      },
+      {
+        "text": "Saving",
+        "startFrame": 450,
+        "endFrame": 462,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 46
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 466,
+        "endFrame": 474,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 47
+      },
+      {
+        "text": "एउटा",
+        "startFrame": 474,
+        "endFrame": 480,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 48
+      }
+    ],
+    [
+      {
+        "text": "Minimum",
+        "startFrame": 480,
+        "endFrame": 491,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 49
+      },
+      {
+        "text": "Criteria",
+        "startFrame": 491,
+        "endFrame": 503,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 50
+      },
+      {
+        "text": "बनाइदिएको",
+        "startFrame": 503,
+        "endFrame": 516,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 51
+      }
+    ],
+    [
+      {
+        "text": "हुन्छ।",
+        "startFrame": 531,
+        "endFrame": 541,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 52
+      },
+      {
+        "text": "त्योअनुसार",
+        "startFrame": 541,
+        "endFrame": 557,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 53
+      },
+      {
+        "text": "तपाईंले",
+        "startFrame": 560,
+        "endFrame": 575,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 54
+      },
+      {
+        "text": "राख्न",
+        "startFrame": 578,
+        "endFrame": 596,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 55
+      }
+    ],
+    [
+      {
+        "text": "पाउनुहुन्थ्यो।",
+        "startFrame": 599,
+        "endFrame": 618,
+        "colorTag": "green",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 56
+      },
+      {
+        "text": "तर",
+        "startFrame": 624,
+        "endFrame": 631,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 57
+      },
+      {
+        "text": "अब",
+        "startFrame": 634,
+        "endFrame": 635,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 58
+      },
+      {
+        "text": "बैंकले",
+        "startFrame": 638,
+        "endFrame": 648,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 59
+      }
+    ],
+    [
+      {
+        "text": "मात्रै",
+        "startFrame": 651,
+        "endFrame": 664,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 60
+      },
+      {
+        "text": "होइन",
+        "startFrame": 664,
+        "endFrame": 674,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 61
+      }
+    ],
+    [
+      {
+        "text": "Housing",
+        "startFrame": 694,
+        "endFrame": 704,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 62
+      },
+      {
+        "text": "Australia",
+        "startFrame": 704,
+        "endFrame": 716,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 63
+      },
+      {
+        "text": "Governmentले",
+        "startFrame": 716,
+        "endFrame": 732,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 64
+      },
+      {
+        "text": "नै",
+        "startFrame": 732,
+        "endFrame": 736,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 65
+      }
+    ],
+    [
+      {
+        "text": "के",
+        "startFrame": 739,
+        "endFrame": 746,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 66
+      },
+      {
+        "text": "भन्न",
+        "startFrame": 746,
+        "endFrame": 757,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 67
+      },
+      {
+        "text": "थालेको",
+        "startFrame": 760,
+        "endFrame": 769,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 68
+      },
+      {
+        "text": "छ",
+        "startFrame": 769,
+        "endFrame": 772,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 69
+      }
+    ],
+    [
+      {
+        "text": "भन्दाखेरि",
+        "startFrame": 775,
+        "endFrame": 781,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 70
+      }
+    ],
+    [
+      {
+        "text": "Retained",
+        "startFrame": 806,
+        "endFrame": 818,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 71
+      },
+      {
+        "text": "Saving",
+        "startFrame": 818,
+        "endFrame": 827,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 72
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 827,
+        "endFrame": 835,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 73
+      },
+      {
+        "text": "अब",
+        "startFrame": 835,
+        "endFrame": 839,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 74
+      }
+    ],
+    [
+      {
+        "text": "तपाईंले",
+        "startFrame": 842,
+        "endFrame": 848,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 75
+      },
+      {
+        "text": "5%,",
+        "startFrame": 853,
+        "endFrame": 858,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 76
+      },
+      {
+        "text": "तपाईंसँग",
+        "startFrame": 858,
+        "endFrame": 869,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 77
+      },
+      {
+        "text": "टन्नै",
+        "startFrame": 869,
+        "endFrame": 877,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 78
+      }
+    ],
+    [
+      {
+        "text": "पैसा",
+        "startFrame": 877,
+        "endFrame": 883,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 79
+      },
+      {
+        "text": "छ",
+        "startFrame": 883,
+        "endFrame": 886,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 80
+      }
+    ],
+    [
+      {
+        "text": "तर",
+        "startFrame": 897,
+        "endFrame": 901,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 81
+      },
+      {
+        "text": "5%",
+        "startFrame": 901,
+        "endFrame": 906,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 82
+      },
+      {
+        "text": "Deposit",
+        "startFrame": 906,
+        "endFrame": 918,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 83
+      },
+      {
+        "text": "Scheme",
+        "startFrame": 924,
+        "endFrame": 927,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 84
+      }
+    ],
+    [
+      {
+        "text": "युज",
+        "startFrame": 931,
+        "endFrame": 936,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 85
+      },
+      {
+        "text": "गर्छु",
+        "startFrame": 936,
+        "endFrame": 944,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 86
+      },
+      {
+        "text": "भन्न",
+        "startFrame": 944,
+        "endFrame": 950,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 87
+      },
+      {
+        "text": "तपाईंले",
+        "startFrame": 950,
+        "endFrame": 960,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 88
+      }
+    ],
+    [
+      {
+        "text": "पाउनुहुन्न।",
+        "startFrame": 960,
+        "endFrame": 975,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 89
+      },
+      {
+        "text": "Because",
+        "startFrame": 978,
+        "endFrame": 991,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 90
+      },
+      {
+        "text": "that",
+        "startFrame": 991,
+        "endFrame": 999,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 91
+      },
+      {
+        "text": "actually",
+        "startFrame": 999,
+        "endFrame": 1013,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 92
+      }
+    ],
+    [
+      {
+        "text": "defeats",
+        "startFrame": 1019,
+        "endFrame": 1032,
+        "colorTag": "red",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 93
+      },
+      {
+        "text": "the",
+        "startFrame": 1032,
+        "endFrame": 1038,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 94
+      }
+    ],
+    [
+      {
+        "text": "purpose",
+        "startFrame": 1064,
+        "endFrame": 1076,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 95
+      },
+      {
+        "text": "नि",
+        "startFrame": 1076,
+        "endFrame": 1081,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 96
+      },
+      {
+        "text": "त,",
+        "startFrame": 1084,
+        "endFrame": 1090,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 97
+      },
+      {
+        "text": "होइन?",
+        "startFrame": 1090,
+        "endFrame": 1101,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 98
+      }
+    ],
+    [
+      {
+        "text": "5%",
+        "startFrame": 1101,
+        "endFrame": 1107,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 99
+      },
+      {
+        "text": "Deposit",
+        "startFrame": 1110,
+        "endFrame": 1121,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 100
+      },
+      {
+        "text": "Scheme",
+        "startFrame": 1121,
+        "endFrame": 1130,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 101
+      },
+      {
+        "text": "भनेको",
+        "startFrame": 1130,
+        "endFrame": 1138,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 102
+      }
+    ],
+    [
+      {
+        "text": "चाहिँ",
+        "startFrame": 1138,
+        "endFrame": 1146,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 103
+      },
+      {
+        "text": "someone",
+        "startFrame": 1149,
+        "endFrame": 1153,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 104
+      },
+      {
+        "text": "जोसँग",
+        "startFrame": 1158,
+        "endFrame": 1165,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 105
+      }
+    ],
+    [
+      {
+        "text": "चाहिँ",
+        "startFrame": 1178,
+        "endFrame": 1183,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 106
+      },
+      {
+        "text": "lower",
+        "startFrame": 1188,
+        "endFrame": 1198,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 107
+      },
+      {
+        "text": "savings",
+        "startFrame": 1200,
+        "endFrame": 1212,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 108
+      },
+      {
+        "text": "छ,",
+        "startFrame": 1212,
+        "endFrame": 1217,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 109
+      }
+    ],
+    [
+      {
+        "text": "थोरै",
+        "startFrame": 1217,
+        "endFrame": 1224,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 110
+      },
+      {
+        "text": "savings",
+        "startFrame": 1227,
+        "endFrame": 1238,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 111
+      },
+      {
+        "text": "छ,",
+        "startFrame": 1242,
+        "endFrame": 1245,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 112
+      }
+    ],
+    [
+      {
+        "text": "उनीहरूले",
+        "startFrame": 1261,
+        "endFrame": 1275,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 113
+      },
+      {
+        "text": "युज",
+        "startFrame": 1275,
+        "endFrame": 1281,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 114
+      },
+      {
+        "text": "गर्ने",
+        "startFrame": 1281,
+        "endFrame": 1290,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 115
+      },
+      {
+        "text": "भन्न",
+        "startFrame": 1290,
+        "endFrame": 1297,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 116
+      }
+    ],
+    [
+      {
+        "text": "खोजेको",
+        "startFrame": 1297,
+        "endFrame": 1308,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 117
+      },
+      {
+        "text": "हो।",
+        "startFrame": 1308,
+        "endFrame": 1314,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 118
+      },
+      {
+        "text": "तर",
+        "startFrame": 1314,
+        "endFrame": 1318,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 119
+      },
+      {
+        "text": "तपाईंसँग",
+        "startFrame": 1321,
+        "endFrame": 1324,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 120
+      }
+    ],
+    [
+      {
+        "text": "धेरै",
+        "startFrame": 1327,
+        "endFrame": 1331,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 121
+      }
+    ],
+    [
+      {
+        "text": "savings",
+        "startFrame": 1349,
+        "endFrame": 1359,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 122
+      },
+      {
+        "text": "हुँदाहुँदै",
+        "startFrame": 1359,
+        "endFrame": 1373,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 123
+      },
+      {
+        "text": "पनि",
+        "startFrame": 1373,
+        "endFrame": 1378,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 124
+      },
+      {
+        "text": "त्यो",
+        "startFrame": 1378,
+        "endFrame": 1385,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 125
+      }
+    ],
+    [
+      {
+        "text": "Scheme",
+        "startFrame": 1385,
+        "endFrame": 1393,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 126
+      },
+      {
+        "text": "युज",
+        "startFrame": 1393,
+        "endFrame": 1398,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 127
+      },
+      {
+        "text": "गरेर",
+        "startFrame": 1398,
+        "endFrame": 1405,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 128
+      },
+      {
+        "text": "अरू",
+        "startFrame": 1405,
+        "endFrame": 1410,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 129
+      }
+    ],
+    [
+      {
+        "text": "पैसा",
+        "startFrame": 1413,
+        "endFrame": 1422,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 130
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 1422,
+        "endFrame": 1434,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 131
+      },
+      {
+        "text": "राख्छु",
+        "startFrame": 1443,
+        "endFrame": 1454,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 132
+      },
+      {
+        "text": "भन्न",
+        "startFrame": 1457,
+        "endFrame": 1464,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 133
+      }
+    ],
+    [
+      {
+        "text": "पाउनुहुन्न।",
+        "startFrame": 1468,
+        "endFrame": 1477,
+        "colorTag": "red",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 134
+      },
+      {
+        "text": "तपाईंले",
+        "startFrame": 1484,
+        "endFrame": 1497,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 135
+      }
+    ],
+    [
+      {
+        "text": "certain",
+        "startFrame": 1510,
+        "endFrame": 1525,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 136
+      },
+      {
+        "text": "पैसा",
+        "startFrame": 1525,
+        "endFrame": 1535,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 137
+      },
+      {
+        "text": "राख्नु",
+        "startFrame": 1538,
+        "endFrame": 1542,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 138
+      },
+      {
+        "text": "राख्न",
+        "startFrame": 1549,
+        "endFrame": 1570,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 139
+      }
+    ],
+    [
+      {
+        "text": "सक्नुहुन्छ।",
+        "startFrame": 1572,
+        "endFrame": 1583,
+        "colorTag": "green",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 140
+      },
+      {
+        "text": "जस्तै",
+        "startFrame": 1589,
+        "endFrame": 1601,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 141
+      },
+      {
+        "text": "for",
+        "startFrame": 1601,
+        "endFrame": 1608,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 142
+      },
+      {
+        "text": "example",
+        "startFrame": 1611,
+        "endFrame": 1624,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 143
+      }
+    ],
+    [
+      {
+        "text": "उनीहरूले",
+        "startFrame": 1624,
+        "endFrame": 1638,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 144
+      },
+      {
+        "text": "के",
+        "startFrame": 1638,
+        "endFrame": 1643,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 145
+      }
+    ],
+    [
+      {
+        "text": "भनेका",
+        "startFrame": 1660,
+        "endFrame": 1665,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 146
+      },
+      {
+        "text": "छन्",
+        "startFrame": 1668,
+        "endFrame": 1676,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 147
+      },
+      {
+        "text": "भने",
+        "startFrame": 1676,
+        "endFrame": 1684,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 148
+      }
+    ],
+    [
+      {
+        "text": "तपाईंले",
+        "startFrame": 1696,
+        "endFrame": 1707,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 149
+      },
+      {
+        "text": "घर",
+        "startFrame": 1707,
+        "endFrame": 1711,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 150
+      },
+      {
+        "text": "किनिसकेर",
+        "startFrame": 1711,
+        "endFrame": 1724,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 151
+      },
+      {
+        "text": "छ",
+        "startFrame": 1724,
+        "endFrame": 1727,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 152
+      }
+    ],
+    [
+      {
+        "text": "महिनाको",
+        "startFrame": 1727,
+        "endFrame": 1738,
+        "colorTag": "green",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 153
+      },
+      {
+        "text": "लागि",
+        "startFrame": 1740,
+        "endFrame": 1742,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 154
+      },
+      {
+        "text": "Living",
+        "startFrame": 1748,
+        "endFrame": 1760,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 155
+      }
+    ],
+    [
+      {
+        "text": "Expenses",
+        "startFrame": 1777,
+        "endFrame": 1789,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 156
+      },
+      {
+        "text": "राख्न",
+        "startFrame": 1789,
+        "endFrame": 1797,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 157
+      },
+      {
+        "text": "सक्नुहुन्छ।",
+        "startFrame": 1797,
+        "endFrame": 1814,
+        "colorTag": "green",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 158
+      },
+      {
+        "text": "त्यसैगरी",
+        "startFrame": 1814,
+        "endFrame": 1826,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 159
+      }
+    ],
+    [
+      {
+        "text": "House",
+        "startFrame": 1829,
+        "endFrame": 1835,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 160
+      },
+      {
+        "text": "and",
+        "startFrame": 1838,
+        "endFrame": 1844,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 161
+      },
+      {
+        "text": "Land",
+        "startFrame": 1844,
+        "endFrame": 1851,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 162
+      },
+      {
+        "text": "अथवा",
+        "startFrame": 1854,
+        "endFrame": 1862,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 163
+      }
+    ],
+    [
+      {
+        "text": "Construction",
+        "startFrame": 1872,
+        "endFrame": 1880,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 164
+      },
+      {
+        "text": "Loan",
+        "startFrame": 1883,
+        "endFrame": 1891,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 165
+      },
+      {
+        "text": "गर्दै",
+        "startFrame": 1894,
+        "endFrame": 1897,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 166
+      },
+      {
+        "text": "हुनुहुन्छ",
+        "startFrame": 1901,
+        "endFrame": 1908,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 167
+      }
+    ],
+    [
+      {
+        "text": "भने",
+        "startFrame": 1910,
+        "endFrame": 1913,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 168
+      },
+      {
+        "text": "तपाईंले",
+        "startFrame": 1923,
+        "endFrame": 1933,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 169
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 1943,
+        "endFrame": 1946,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 170
+      },
+      {
+        "text": "फेरि",
+        "startFrame": 1949,
+        "endFrame": 1956,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 171
+      }
+    ],
+    [
+      {
+        "text": "अर्को",
+        "startFrame": 1956,
+        "endFrame": 1964,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 172
+      },
+      {
+        "text": "extra",
+        "startFrame": 1964,
+        "endFrame": 1972,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 173
+      },
+      {
+        "text": "5%",
+        "startFrame": 1972,
+        "endFrame": 1976,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 174
+      },
+      {
+        "text": "देखि",
+        "startFrame": 1976,
+        "endFrame": 1983,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 175
+      }
+    ],
+    [
+      {
+        "text": "10%",
+        "startFrame": 1983,
+        "endFrame": 1988,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 176
+      },
+      {
+        "text": "सम्म",
+        "startFrame": 1995,
+        "endFrame": 1998,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 177
+      },
+      {
+        "text": "राख्न",
+        "startFrame": 2003,
+        "endFrame": 2021,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 178
+      }
+    ],
+    [
+      {
+        "text": "सक्नुहुन्छ",
+        "startFrame": 2045,
+        "endFrame": 2059,
+        "colorTag": "green",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 179
+      },
+      {
+        "text": "भनेर",
+        "startFrame": 2059,
+        "endFrame": 2066,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 180
+      },
+      {
+        "text": "भनेको",
+        "startFrame": 2066,
+        "endFrame": 2074,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 181
+      },
+      {
+        "text": "छ।",
+        "startFrame": 2074,
+        "endFrame": 2078,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 182
+      }
+    ],
+    [
+      {
+        "text": "सो",
+        "startFrame": 2078,
+        "endFrame": 2082,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 183
+      },
+      {
+        "text": "यो",
+        "startFrame": 2082,
+        "endFrame": 2086,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 184
+      },
+      {
+        "text": "Retained",
+        "startFrame": 2086,
+        "endFrame": 2097,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 185
+      },
+      {
+        "text": "Savingको",
+        "startFrame": 2100,
+        "endFrame": 2112,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 186
+      }
+    ],
+    [
+      {
+        "text": "Criteria",
+        "startFrame": 2130,
+        "endFrame": 2142,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 187
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 2144,
+        "endFrame": 2152,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 188
+      },
+      {
+        "text": "नि",
+        "startFrame": 2152,
+        "endFrame": 2156,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 189
+      },
+      {
+        "text": "फेरि",
+        "startFrame": 2162,
+        "endFrame": 2173,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 190
+      }
+    ],
+    [
+      {
+        "text": "अहिले",
+        "startFrame": 2173,
+        "endFrame": 2186,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 191
+      },
+      {
+        "text": "Governmentले",
+        "startFrame": 2189,
+        "endFrame": 2206,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 192
+      },
+      {
+        "text": "Change",
+        "startFrame": 2212,
+        "endFrame": 2218,
+        "colorTag": "red",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 193
+      },
+      {
+        "text": "गरेको",
+        "startFrame": 2224,
+        "endFrame": 2232,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 194
+      }
+    ],
+    [
+      {
+        "text": "छ।",
+        "startFrame": 2232,
+        "endFrame": 2236,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 195
+      },
+      {
+        "text": "त्यसो",
+        "startFrame": 2236,
+        "endFrame": 2244,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 196
+      },
+      {
+        "text": "भएर",
+        "startFrame": 2246,
+        "endFrame": 2250,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 197
+      },
+      {
+        "text": "अहिले",
+        "startFrame": 2253,
+        "endFrame": 2261,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 198
+      }
+    ],
+    [
+      {
+        "text": "चाहिँ",
+        "startFrame": 2261,
+        "endFrame": 2269,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 199
+      },
+      {
+        "text": "तपाईंले",
+        "startFrame": 2269,
+        "endFrame": 2280,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 200
+      },
+      {
+        "text": "5%",
+        "startFrame": 2280,
+        "endFrame": 2284,
+        "colorTag": "green",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 201
+      },
+      {
+        "text": "Deposit",
+        "startFrame": 2287,
+        "endFrame": 2290,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 202
+      }
+    ],
+    [
+      {
+        "text": "Scheme",
+        "startFrame": 2294,
+        "endFrame": 2306,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 203
+      }
+    ],
+    [
+      {
+        "text": "अँमा",
+        "startFrame": 2323,
+        "endFrame": 2329,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 204
+      },
+      {
+        "text": "घर",
+        "startFrame": 2329,
+        "endFrame": 2333,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 205
+      },
+      {
+        "text": "किन्ने",
+        "startFrame": 2333,
+        "endFrame": 2342,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 206
+      },
+      {
+        "text": "Planningमा",
+        "startFrame": 2346,
+        "endFrame": 2368,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 207
+      }
+    ],
+    [
+      {
+        "text": "हुनुहुन्छ",
+        "startFrame": 2386,
+        "endFrame": 2402,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 208
+      },
+      {
+        "text": "भने",
+        "startFrame": 2404,
+        "endFrame": 2411,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 209
+      },
+      {
+        "text": "अलिकति",
+        "startFrame": 2411,
+        "endFrame": 2424,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 210
+      },
+      {
+        "text": "Thoughtful",
+        "startFrame": 2426,
+        "endFrame": 2441,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 211
+      }
+    ],
+    [
+      {
+        "text": "भएर",
+        "startFrame": 2441,
+        "endFrame": 2446,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 212
+      },
+      {
+        "text": "यसमा",
+        "startFrame": 2446,
+        "endFrame": 2453,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 213
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 2453,
+        "endFrame": 2460,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 214
+      },
+      {
+        "text": "तपाईंले",
+        "startFrame": 2465,
+        "endFrame": 2471,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 215
+      }
+    ],
+    [
+      {
+        "text": "काम",
+        "startFrame": 2475,
+        "endFrame": 2480,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 216
+      },
+      {
+        "text": "गर्नुपर्ने",
+        "startFrame": 2480,
+        "endFrame": 2496,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 217
+      },
+      {
+        "text": "हुन्छ।",
+        "startFrame": 2496,
+        "endFrame": 2505,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 218
+      },
+      {
+        "text": "तपाईं",
+        "startFrame": 2505,
+        "endFrame": 2513,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 219
+      }
+    ],
+    [
+      {
+        "text": "पनि",
+        "startFrame": 2513,
+        "endFrame": 2519,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 220
+      },
+      {
+        "text": "त्यो",
+        "startFrame": 2519,
+        "endFrame": 2526,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 221
+      },
+      {
+        "text": "Phaseमा",
+        "startFrame": 2528,
+        "endFrame": 2542,
+        "colorTag": "yellow",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 222
+      },
+      {
+        "text": "हुनुहुन्छ,",
+        "startFrame": 2544,
+        "endFrame": 2546,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 223
+      }
+    ],
+    [
+      {
+        "text": "Plan",
+        "startFrame": 2550,
+        "endFrame": 2560,
+        "colorTag": "yellow",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 224
+      },
+      {
+        "text": "गर्दै",
+        "startFrame": 2560,
+        "endFrame": 2571,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 225
+      },
+      {
+        "text": "हुनुहुन्छ,",
+        "startFrame": 2574,
+        "endFrame": 2588,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 226
+      },
+      {
+        "text": "in",
+        "startFrame": 2588,
+        "endFrame": 2592,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 227
+      }
+    ],
+    [
+      {
+        "text": "the",
+        "startFrame": 2594,
+        "endFrame": 2595,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 228
+      },
+      {
+        "text": "next",
+        "startFrame": 2595,
+        "endFrame": 2595,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 229
+      },
+      {
+        "text": "one,",
+        "startFrame": 2595,
+        "endFrame": 2595,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 230
+      },
+      {
+        "text": "three,",
+        "startFrame": 2595,
+        "endFrame": 2596,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 231
+      }
+    ],
+    [
+      {
+        "text": "six",
+        "startFrame": 2596,
+        "endFrame": 2597,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 232
+      },
+      {
+        "text": "monthsमा",
+        "startFrame": 2597,
+        "endFrame": 2597,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 233
+      },
+      {
+        "text": "अथवा",
+        "startFrame": 2597,
+        "endFrame": 2598,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 234
+      },
+      {
+        "text": "even",
+        "startFrame": 2598,
+        "endFrame": 2598,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 235
+      }
+    ],
+    [
+      {
+        "text": "एक",
+        "startFrame": 2598,
+        "endFrame": 2599,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 236
+      },
+      {
+        "text": "वर्षमा",
+        "startFrame": 2599,
+        "endFrame": 2599,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 237
+      },
+      {
+        "text": "भने",
+        "startFrame": 2599,
+        "endFrame": 2600,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 238
+      },
+      {
+        "text": "चाहिँ",
+        "startFrame": 2600,
+        "endFrame": 2600,
+        "colorTag": "white",
+        "fontFamily": "Noto Sans Devanagari",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 239
+      }
+    ],
+    [
+      {
+        "text": "please",
+        "startFrame": 2600,
+        "endFrame": 2601,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 240
+      },
+      {
+        "text": "feel",
+        "startFrame": 2601,
+        "endFrame": 2602,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 241
+      },
+      {
+        "text": "free",
+        "startFrame": 2602,
+        "endFrame": 2602,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 242
+      },
+      {
+        "text": "to",
+        "startFrame": 2602,
+        "endFrame": 2602,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 243
+      }
+    ],
+    [
+      {
+        "text": "reach",
+        "startFrame": 2602,
+        "endFrame": 2603,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 244
+      },
+      {
+        "text": "out",
+        "startFrame": 2603,
+        "endFrame": 2603,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 245
+      },
+      {
+        "text": "to",
+        "startFrame": 2603,
+        "endFrame": 2604,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 246
+      },
+      {
+        "text": "me,",
+        "startFrame": 2604,
+        "endFrame": 2604,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 247
+      }
+    ],
+    [
+      {
+        "text": "let's",
+        "startFrame": 2604,
+        "endFrame": 2605,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 248
+      },
+      {
+        "text": "make",
+        "startFrame": 2605,
+        "endFrame": 2605,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 249
+      },
+      {
+        "text": "a",
+        "startFrame": 2605,
+        "endFrame": 2605,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 250
+      },
+      {
+        "text": "plan",
+        "startFrame": 2605,
+        "endFrame": 2606,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 251
+      }
+    ],
+    [
+      {
+        "text": "together.",
+        "startFrame": 2606,
+        "endFrame": 2607,
+        "colorTag": "white",
+        "fontFamily": "Montserrat",
+        "fontSize": 46,
+        "fontWeight": 700,
+        "wordIndex": 252
+      }
+    ]
+  ],
+  "panels": [
+    {
+      "title": "The Reality",
+      "startFrame": 126,
+      "rows": [
+        {
+          "iconName": "landmark",
+          "label": "OLD: Bank Policy",
+          "value": "5% Deposit Scheme",
+          "startFrame": 212
+        },
+        {
+          "iconName": "ruler",
+          "label": "Minimum Criteria",
+          "value": "Required Amount",
+          "startFrame": 491
+        },
+        {
+          "iconName": "landmark",
+          "label": "NEW: Gov Rule",
+          "value": "Housing Australia",
+          "startFrame": 694
+        }
+      ]
+    },
+    {
+      "title": "How to Protect Yourself",
+      "startFrame": 1510,
+      "rows": [
+        {
+          "iconName": "user",
+          "label": "Bigger Deposit",
+          "value": "More Buffer",
+          "startFrame": 1510
+        },
+        {
+          "iconName": "calendar",
+          "label": "6 mo Living Expenses",
+          "value": "After Purchase",
+          "startFrame": 1748
+        },
+        {
+          "iconName": "hard-hat",
+          "label": "Extra 5-10%",
+          "value": "House & Land / Construction",
+          "startFrame": 1872
+        }
+      ]
+    }
+  ],
+  "motifs": [
+    {
+      "type": "coin-stack",
+      "startFrame": 930,
+      "x": 860,
+      "y": 420,
+      "coinCount": 4
+    },
+    {
+      "type": "cta-card",
+      "text": "let's make a plan together →",
+      "startFrame": 2346,
+      "x": 540,
+      "y": 1800
+    }
+  ]
+}

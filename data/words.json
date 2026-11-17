@@ -1,0 +1,1782 @@
+{
+  "meta": {
+    "fps": 30,
+    "source": "rawtrascript.txt + ffmpeg silencedetect (pause-anchored fallback, no ML alignment)",
+    "method": "word-length-weighted distribution within real detected speech segments",
+    "wordCount": 253,
+    "lastWordEndFrame": 2607
+  },
+  "words": [
+    {
+      "text": "पैसा",
+      "start": 0.0,
+      "end": 0.27,
+      "startFrame": 0,
+      "endFrame": 8
+    },
+    {
+      "text": "थोरै",
+      "start": 0.358,
+      "end": 0.583,
+      "startFrame": 11,
+      "endFrame": 18
+    },
+    {
+      "text": "हुँदा",
+      "start": 0.583,
+      "end": 0.854,
+      "startFrame": 18,
+      "endFrame": 26
+    },
+    {
+      "text": "त",
+      "start": 0.854,
+      "end": 0.944,
+      "startFrame": 26,
+      "endFrame": 28
+    },
+    {
+      "text": "सुख",
+      "start": 0.944,
+      "end": 1.124,
+      "startFrame": 28,
+      "endFrame": 34
+    },
+    {
+      "text": "छैन",
+      "start": 1.124,
+      "end": 1.304,
+      "startFrame": 34,
+      "endFrame": 39
+    },
+    {
+      "text": "छैन,",
+      "start": 1.304,
+      "end": 1.529,
+      "startFrame": 39,
+      "endFrame": 46
+    },
+    {
+      "text": "अब",
+      "start": 1.529,
+      "end": 1.664,
+      "startFrame": 46,
+      "endFrame": 50
+    },
+    {
+      "text": "धेरै",
+      "start": 1.664,
+      "end": 1.889,
+      "startFrame": 50,
+      "endFrame": 57
+    },
+    {
+      "text": "हुँदा",
+      "start": 1.889,
+      "end": 2.16,
+      "startFrame": 57,
+      "endFrame": 65
+    },
+    {
+      "text": "पनि",
+      "start": 2.16,
+      "end": 2.34,
+      "startFrame": 65,
+      "endFrame": 70
+    },
+    {
+      "text": "सुख",
+      "start": 2.34,
+      "end": 2.52,
+      "startFrame": 70,
+      "endFrame": 76
+    },
+    {
+      "text": "छैन",
+      "start": 2.52,
+      "end": 2.7,
+      "startFrame": 76,
+      "endFrame": 81
+    },
+    {
+      "text": "भनेजस्तो",
+      "start": 2.7,
+      "end": 3.105,
+      "startFrame": 81,
+      "endFrame": 93
+    },
+    {
+      "text": "चाहिँ",
+      "start": 3.105,
+      "end": 3.376,
+      "startFrame": 93,
+      "endFrame": 101
+    },
+    {
+      "text": "भयो।",
+      "start": 3.376,
+      "end": 3.601,
+      "startFrame": 101,
+      "endFrame": 108
+    },
+    {
+      "text": "किन",
+      "start": 3.601,
+      "end": 3.781,
+      "startFrame": 108,
+      "endFrame": 113
+    },
+    {
+      "text": "भन्दाखेरि",
+      "start": 3.881,
+      "end": 3.97,
+      "startFrame": 116,
+      "endFrame": 119
+    },
+    {
+      "text": "Governmentले",
+      "start": 4.207,
+      "end": 4.379,
+      "startFrame": 126,
+      "endFrame": 131
+    },
+    {
+      "text": "चाहिँ",
+      "start": 4.506,
+      "end": 4.711,
+      "startFrame": 135,
+      "endFrame": 141
+    },
+    {
+      "text": "अब",
+      "start": 4.811,
+      "end": 4.939,
+      "startFrame": 144,
+      "endFrame": 148
+    },
+    {
+      "text": "First",
+      "start": 4.939,
+      "end": 5.196,
+      "startFrame": 148,
+      "endFrame": 156
+    },
+    {
+      "text": "Home",
+      "start": 5.196,
+      "end": 5.41,
+      "startFrame": 156,
+      "endFrame": 162
+    },
+    {
+      "text": "Buyerहरूलाई",
+      "start": 5.511,
+      "end": 6.229,
+      "startFrame": 165,
+      "endFrame": 187
+    },
+    {
+      "text": "पहिले",
+      "start": 6.374,
+      "end": 6.654,
+      "startFrame": 191,
+      "endFrame": 200
+    },
+    {
+      "text": "पहिले",
+      "start": 6.654,
+      "end": 6.933,
+      "startFrame": 200,
+      "endFrame": 208
+    },
+    {
+      "text": "5%",
+      "start": 6.933,
+      "end": 7.073,
+      "startFrame": 208,
+      "endFrame": 212
+    },
+    {
+      "text": "Deposit",
+      "start": 7.073,
+      "end": 7.447,
+      "startFrame": 212,
+      "endFrame": 223
+    },
+    {
+      "text": "Scheme",
+      "start": 8.155,
+      "end": 8.628,
+      "startFrame": 245,
+      "endFrame": 259
+    },
+    {
+      "text": "युज",
+      "start": 8.628,
+      "end": 8.898,
+      "startFrame": 259,
+      "endFrame": 267
+    },
+    {
+      "text": "गर्दाखेरि",
+      "start": 8.998,
+      "end": 9.447,
+      "startFrame": 270,
+      "endFrame": 283
+    },
+    {
+      "text": "चाहिँ",
+      "start": 9.447,
+      "end": 9.717,
+      "startFrame": 283,
+      "endFrame": 291
+    },
+    {
+      "text": "बैंकहरूको",
+      "start": 9.717,
+      "end": 10.166,
+      "startFrame": 291,
+      "endFrame": 305
+    },
+    {
+      "text": "Policy",
+      "start": 10.166,
+      "end": 10.48,
+      "startFrame": 305,
+      "endFrame": 314
+    },
+    {
+      "text": "हुन्थ्यो",
+      "start": 10.569,
+      "end": 10.657,
+      "startFrame": 317,
+      "endFrame": 320
+    },
+    {
+      "text": "कि",
+      "start": 10.897,
+      "end": 11.027,
+      "startFrame": 327,
+      "endFrame": 331
+    },
+    {
+      "text": "तपाईंले",
+      "start": 11.027,
+      "end": 11.373,
+      "startFrame": 331,
+      "endFrame": 341
+    },
+    {
+      "text": "आफूले",
+      "start": 11.482,
+      "end": 11.734,
+      "startFrame": 344,
+      "endFrame": 352
+    },
+    {
+      "text": "Deposit",
+      "start": 11.734,
+      "end": 12.07,
+      "startFrame": 352,
+      "endFrame": 362
+    },
+    {
+      "text": "गरे",
+      "start": 12.07,
+      "end": 12.238,
+      "startFrame": 362,
+      "endFrame": 367
+    },
+    {
+      "text": "पछाडि",
+      "start": 12.332,
+      "end": 12.672,
+      "startFrame": 370,
+      "endFrame": 380
+    },
+    {
+      "text": "बाँकी",
+      "start": 13.131,
+      "end": 13.428,
+      "startFrame": 394,
+      "endFrame": 403
+    },
+    {
+      "text": "बस्ने",
+      "start": 13.428,
+      "end": 13.724,
+      "startFrame": 403,
+      "endFrame": 412
+    },
+    {
+      "text": "पैसा",
+      "start": 13.724,
+      "end": 13.971,
+      "startFrame": 412,
+      "endFrame": 419
+    },
+    {
+      "text": "चाहिँ",
+      "start": 14.064,
+      "end": 14.522,
+      "startFrame": 422,
+      "endFrame": 436
+    },
+    {
+      "text": "Retained",
+      "start": 14.773,
+      "end": 14.915,
+      "startFrame": 443,
+      "endFrame": 447
+    },
+    {
+      "text": "Saving",
+      "start": 15.01,
+      "end": 15.412,
+      "startFrame": 450,
+      "endFrame": 462
+    },
+    {
+      "text": "चाहिँ",
+      "start": 15.528,
+      "end": 15.794,
+      "startFrame": 466,
+      "endFrame": 474
+    },
+    {
+      "text": "एउटा",
+      "start": 15.794,
+      "end": 16.016,
+      "startFrame": 474,
+      "endFrame": 480
+    },
+    {
+      "text": "Minimum",
+      "start": 16.016,
+      "end": 16.37,
+      "startFrame": 480,
+      "endFrame": 491
+    },
+    {
+      "text": "Criteria",
+      "start": 16.37,
+      "end": 16.769,
+      "startFrame": 491,
+      "endFrame": 503
+    },
+    {
+      "text": "बनाइदिएको",
+      "start": 16.769,
+      "end": 17.213,
+      "startFrame": 503,
+      "endFrame": 516
+    },
+    {
+      "text": "हुन्छ।",
+      "start": 17.716,
+      "end": 18.045,
+      "startFrame": 531,
+      "endFrame": 541
+    },
+    {
+      "text": "त्योअनुसार",
+      "start": 18.045,
+      "end": 18.562,
+      "startFrame": 541,
+      "endFrame": 557
+    },
+    {
+      "text": "तपाईंले",
+      "start": 18.652,
+      "end": 19.152,
+      "startFrame": 560,
+      "endFrame": 575
+    },
+    {
+      "text": "राख्न",
+      "start": 19.272,
+      "end": 19.877,
+      "startFrame": 578,
+      "endFrame": 596
+    },
+    {
+      "text": "पाउनुहुन्थ्यो।",
+      "start": 19.982,
+      "end": 20.593,
+      "startFrame": 599,
+      "endFrame": 618
+    },
+    {
+      "text": "तर",
+      "start": 20.792,
+      "end": 21.034,
+      "startFrame": 624,
+      "endFrame": 631
+    },
+    {
+      "text": "अब",
+      "start": 21.122,
+      "end": 21.174,
+      "startFrame": 634,
+      "endFrame": 635
+    },
+    {
+      "text": "बैंकले",
+      "start": 21.259,
+      "end": 21.594,
+      "startFrame": 638,
+      "endFrame": 648
+    },
+    {
+      "text": "मात्रै",
+      "start": 21.691,
+      "end": 22.141,
+      "startFrame": 651,
+      "endFrame": 664
+    },
+    {
+      "text": "होइन",
+      "start": 22.141,
+      "end": 22.463,
+      "startFrame": 664,
+      "endFrame": 674
+    },
+    {
+      "text": "Housing",
+      "start": 23.117,
+      "end": 23.45,
+      "startFrame": 694,
+      "endFrame": 704
+    },
+    {
+      "text": "Australia",
+      "start": 23.45,
+      "end": 23.866,
+      "startFrame": 704,
+      "endFrame": 716
+    },
+    {
+      "text": "Governmentले",
+      "start": 23.866,
+      "end": 24.407,
+      "startFrame": 716,
+      "endFrame": 732
+    },
+    {
+      "text": "नै",
+      "start": 24.407,
+      "end": 24.532,
+      "startFrame": 732,
+      "endFrame": 736
+    },
+    {
+      "text": "के",
+      "start": 24.627,
+      "end": 24.859,
+      "startFrame": 739,
+      "endFrame": 746
+    },
+    {
+      "text": "भन्न",
+      "start": 24.859,
+      "end": 25.244,
+      "startFrame": 746,
+      "endFrame": 757
+    },
+    {
+      "text": "थालेको",
+      "start": 25.34,
+      "end": 25.637,
+      "startFrame": 760,
+      "endFrame": 769
+    },
+    {
+      "text": "छ",
+      "start": 25.637,
+      "end": 25.722,
+      "startFrame": 769,
+      "endFrame": 772
+    },
+    {
+      "text": "भन्दाखेरि",
+      "start": 25.827,
+      "end": 26.04,
+      "startFrame": 775,
+      "endFrame": 781
+    },
+    {
+      "text": "Retained",
+      "start": 26.852,
+      "end": 27.258,
+      "startFrame": 806,
+      "endFrame": 818
+    },
+    {
+      "text": "Saving",
+      "start": 27.258,
+      "end": 27.574,
+      "startFrame": 818,
+      "endFrame": 827
+    },
+    {
+      "text": "चाहिँ",
+      "start": 27.574,
+      "end": 27.845,
+      "startFrame": 827,
+      "endFrame": 835
+    },
+    {
+      "text": "अब",
+      "start": 27.845,
+      "end": 27.98,
+      "startFrame": 835,
+      "endFrame": 839
+    },
+    {
+      "text": "तपाईंले",
+      "start": 28.07,
+      "end": 28.276,
+      "startFrame": 842,
+      "endFrame": 848
+    },
+    {
+      "text": "5%,",
+      "start": 28.434,
+      "end": 28.602,
+      "startFrame": 853,
+      "endFrame": 858
+    },
+    {
+      "text": "तपाईंसँग",
+      "start": 28.602,
+      "end": 28.982,
+      "startFrame": 858,
+      "endFrame": 869
+    },
+    {
+      "text": "टन्नै",
+      "start": 28.982,
+      "end": 29.235,
+      "startFrame": 869,
+      "endFrame": 877
+    },
+    {
+      "text": "पैसा",
+      "start": 29.235,
+      "end": 29.446,
+      "startFrame": 877,
+      "endFrame": 883
+    },
+    {
+      "text": "छ",
+      "start": 29.446,
+      "end": 29.53,
+      "startFrame": 883,
+      "endFrame": 886
+    },
+    {
+      "text": "तर",
+      "start": 29.884,
+      "end": 30.038,
+      "startFrame": 897,
+      "endFrame": 901
+    },
+    {
+      "text": "5%",
+      "start": 30.038,
+      "end": 30.192,
+      "startFrame": 901,
+      "endFrame": 906
+    },
+    {
+      "text": "Deposit",
+      "start": 30.192,
+      "end": 30.604,
+      "startFrame": 906,
+      "endFrame": 918
+    },
+    {
+      "text": "Scheme",
+      "start": 30.783,
+      "end": 30.909,
+      "startFrame": 924,
+      "endFrame": 927
+    },
+    {
+      "text": "युज",
+      "start": 31.039,
+      "end": 31.207,
+      "startFrame": 931,
+      "endFrame": 936
+    },
+    {
+      "text": "गर्छु",
+      "start": 31.207,
+      "end": 31.458,
+      "startFrame": 936,
+      "endFrame": 944
+    },
+    {
+      "text": "भन्न",
+      "start": 31.458,
+      "end": 31.667,
+      "startFrame": 944,
+      "endFrame": 950
+    },
+    {
+      "text": "तपाईंले",
+      "start": 31.667,
+      "end": 32.001,
+      "startFrame": 950,
+      "endFrame": 960
+    },
+    {
+      "text": "पाउनुहुन्न।",
+      "start": 32.001,
+      "end": 32.504,
+      "startFrame": 960,
+      "endFrame": 975
+    },
+    {
+      "text": "Because",
+      "start": 32.609,
+      "end": 33.031,
+      "startFrame": 978,
+      "endFrame": 991
+    },
+    {
+      "text": "that",
+      "start": 33.031,
+      "end": 33.295,
+      "startFrame": 991,
+      "endFrame": 999
+    },
+    {
+      "text": "actually",
+      "start": 33.295,
+      "end": 33.769,
+      "startFrame": 999,
+      "endFrame": 1013
+    },
+    {
+      "text": "defeats",
+      "start": 33.956,
+      "end": 34.394,
+      "startFrame": 1019,
+      "endFrame": 1032
+    },
+    {
+      "text": "the",
+      "start": 34.394,
+      "end": 34.612,
+      "startFrame": 1032,
+      "endFrame": 1038
+    },
+    {
+      "text": "purpose",
+      "start": 35.46,
+      "end": 35.88,
+      "startFrame": 1064,
+      "endFrame": 1076
+    },
+    {
+      "text": "नि",
+      "start": 35.88,
+      "end": 36.038,
+      "startFrame": 1076,
+      "endFrame": 1081
+    },
+    {
+      "text": "त,",
+      "start": 36.131,
+      "end": 36.322,
+      "startFrame": 1084,
+      "endFrame": 1090
+    },
+    {
+      "text": "होइन?",
+      "start": 36.322,
+      "end": 36.703,
+      "startFrame": 1090,
+      "endFrame": 1101
+    },
+    {
+      "text": "5%",
+      "start": 36.703,
+      "end": 36.893,
+      "startFrame": 1101,
+      "endFrame": 1107
+    },
+    {
+      "text": "Deposit",
+      "start": 37.013,
+      "end": 37.368,
+      "startFrame": 1110,
+      "endFrame": 1121
+    },
+    {
+      "text": "Scheme",
+      "start": 37.368,
+      "end": 37.679,
+      "startFrame": 1121,
+      "endFrame": 1130
+    },
+    {
+      "text": "भनेको",
+      "start": 37.679,
+      "end": 37.945,
+      "startFrame": 1130,
+      "endFrame": 1138
+    },
+    {
+      "text": "चाहिँ",
+      "start": 37.945,
+      "end": 38.212,
+      "startFrame": 1138,
+      "endFrame": 1146
+    },
+    {
+      "text": "someone",
+      "start": 38.307,
+      "end": 38.44,
+      "startFrame": 1149,
+      "endFrame": 1153
+    },
+    {
+      "text": "जोसँग",
+      "start": 38.587,
+      "end": 38.82,
+      "startFrame": 1158,
+      "endFrame": 1165
+    },
+    {
+      "text": "चाहिँ",
+      "start": 39.268,
+      "end": 39.418,
+      "startFrame": 1178,
+      "endFrame": 1183
+    },
+    {
+      "text": "lower",
+      "start": 39.597,
+      "end": 39.921,
+      "startFrame": 1188,
+      "endFrame": 1198
+    },
+    {
+      "text": "savings",
+      "start": 40.005,
+      "end": 40.403,
+      "startFrame": 1200,
+      "endFrame": 1212
+    },
+    {
+      "text": "छ,",
+      "start": 40.403,
+      "end": 40.553,
+      "startFrame": 1212,
+      "endFrame": 1217
+    },
+    {
+      "text": "थोरै",
+      "start": 40.553,
+      "end": 40.801,
+      "startFrame": 1217,
+      "endFrame": 1224
+    },
+    {
+      "text": "savings",
+      "start": 40.888,
+      "end": 41.273,
+      "startFrame": 1227,
+      "endFrame": 1238
+    },
+    {
+      "text": "छ,",
+      "start": 41.395,
+      "end": 41.492,
+      "startFrame": 1242,
+      "endFrame": 1245
+    },
+    {
+      "text": "उनीहरूले",
+      "start": 42.048,
+      "end": 42.495,
+      "startFrame": 1261,
+      "endFrame": 1275
+    },
+    {
+      "text": "युज",
+      "start": 42.495,
+      "end": 42.694,
+      "startFrame": 1275,
+      "endFrame": 1281
+    },
+    {
+      "text": "गर्ने",
+      "start": 42.694,
+      "end": 42.992,
+      "startFrame": 1281,
+      "endFrame": 1290
+    },
+    {
+      "text": "भन्न",
+      "start": 42.992,
+      "end": 43.241,
+      "startFrame": 1290,
+      "endFrame": 1297
+    },
+    {
+      "text": "खोजेको",
+      "start": 43.241,
+      "end": 43.589,
+      "startFrame": 1297,
+      "endFrame": 1308
+    },
+    {
+      "text": "हो।",
+      "start": 43.589,
+      "end": 43.788,
+      "startFrame": 1308,
+      "endFrame": 1314
+    },
+    {
+      "text": "तर",
+      "start": 43.788,
+      "end": 43.937,
+      "startFrame": 1314,
+      "endFrame": 1318
+    },
+    {
+      "text": "तपाईंसँग",
+      "start": 44.019,
+      "end": 44.142,
+      "startFrame": 1321,
+      "endFrame": 1324
+    },
+    {
+      "text": "धेरै",
+      "start": 44.236,
+      "end": 44.376,
+      "startFrame": 1327,
+      "endFrame": 1331
+    },
+    {
+      "text": "savings",
+      "start": 44.978,
+      "end": 45.314,
+      "startFrame": 1349,
+      "endFrame": 1359
+    },
+    {
+      "text": "हुँदाहुँदै",
+      "start": 45.314,
+      "end": 45.776,
+      "startFrame": 1359,
+      "endFrame": 1373
+    },
+    {
+      "text": "पनि",
+      "start": 45.776,
+      "end": 45.944,
+      "startFrame": 1373,
+      "endFrame": 1378
+    },
+    {
+      "text": "त्यो",
+      "start": 45.944,
+      "end": 46.154,
+      "startFrame": 1378,
+      "endFrame": 1385
+    },
+    {
+      "text": "Scheme",
+      "start": 46.154,
+      "end": 46.448,
+      "startFrame": 1385,
+      "endFrame": 1393
+    },
+    {
+      "text": "युज",
+      "start": 46.448,
+      "end": 46.616,
+      "startFrame": 1393,
+      "endFrame": 1398
+    },
+    {
+      "text": "गरेर",
+      "start": 46.616,
+      "end": 46.826,
+      "startFrame": 1398,
+      "endFrame": 1405
+    },
+    {
+      "text": "अरू",
+      "start": 46.826,
+      "end": 46.994,
+      "startFrame": 1405,
+      "endFrame": 1410
+    },
+    {
+      "text": "पैसा",
+      "start": 47.088,
+      "end": 47.412,
+      "startFrame": 1413,
+      "endFrame": 1422
+    },
+    {
+      "text": "चाहिँ",
+      "start": 47.412,
+      "end": 47.801,
+      "startFrame": 1422,
+      "endFrame": 1434
+    },
+    {
+      "text": "राख्छु",
+      "start": 48.084,
+      "end": 48.478,
+      "startFrame": 1443,
+      "endFrame": 1454
+    },
+    {
+      "text": "भन्न",
+      "start": 48.574,
+      "end": 48.785,
+      "startFrame": 1457,
+      "endFrame": 1464
+    },
+    {
+      "text": "पाउनुहुन्न।",
+      "start": 48.918,
+      "end": 49.217,
+      "startFrame": 1468,
+      "endFrame": 1477
+    },
+    {
+      "text": "तपाईंले",
+      "start": 49.452,
+      "end": 49.916,
+      "startFrame": 1484,
+      "endFrame": 1497
+    },
+    {
+      "text": "certain",
+      "start": 50.336,
+      "end": 50.843,
+      "startFrame": 1510,
+      "endFrame": 1525
+    },
+    {
+      "text": "पैसा",
+      "start": 50.843,
+      "end": 51.16,
+      "startFrame": 1525,
+      "endFrame": 1535
+    },
+    {
+      "text": "राख्नु",
+      "start": 51.252,
+      "end": 51.414,
+      "startFrame": 1538,
+      "endFrame": 1542
+    },
+    {
+      "text": "राख्न",
+      "start": 51.636,
+      "end": 52.321,
+      "startFrame": 1549,
+      "endFrame": 1570
+    },
+    {
+      "text": "सक्नुहुन्छ।",
+      "start": 52.408,
+      "end": 52.78,
+      "startFrame": 1572,
+      "endFrame": 1583
+    },
+    {
+      "text": "जस्तै",
+      "start": 52.978,
+      "end": 53.359,
+      "startFrame": 1589,
+      "endFrame": 1601
+    },
+    {
+      "text": "for",
+      "start": 53.359,
+      "end": 53.613,
+      "startFrame": 1601,
+      "endFrame": 1608
+    },
+    {
+      "text": "example",
+      "start": 53.707,
+      "end": 54.132,
+      "startFrame": 1611,
+      "endFrame": 1624
+    },
+    {
+      "text": "उनीहरूले",
+      "start": 54.132,
+      "end": 54.611,
+      "startFrame": 1624,
+      "endFrame": 1638
+    },
+    {
+      "text": "के",
+      "start": 54.611,
+      "end": 54.771,
+      "startFrame": 1638,
+      "endFrame": 1643
+    },
+    {
+      "text": "भनेका",
+      "start": 55.331,
+      "end": 55.484,
+      "startFrame": 1660,
+      "endFrame": 1665
+    },
+    {
+      "text": "छन्",
+      "start": 55.584,
+      "end": 55.852,
+      "startFrame": 1668,
+      "endFrame": 1676
+    },
+    {
+      "text": "भने",
+      "start": 55.852,
+      "end": 56.121,
+      "startFrame": 1676,
+      "endFrame": 1684
+    },
+    {
+      "text": "तपाईंले",
+      "start": 56.531,
+      "end": 56.904,
+      "startFrame": 1696,
+      "endFrame": 1707
+    },
+    {
+      "text": "घर",
+      "start": 56.904,
+      "end": 57.044,
+      "startFrame": 1707,
+      "endFrame": 1711
+    },
+    {
+      "text": "किनिसकेर",
+      "start": 57.044,
+      "end": 57.463,
+      "startFrame": 1711,
+      "endFrame": 1724
+    },
+    {
+      "text": "छ",
+      "start": 57.463,
+      "end": 57.556,
+      "startFrame": 1724,
+      "endFrame": 1727
+    },
+    {
+      "text": "महिनाको",
+      "start": 57.556,
+      "end": 57.929,
+      "startFrame": 1727,
+      "endFrame": 1738
+    },
+    {
+      "text": "लागि",
+      "start": 58.017,
+      "end": 58.069,
+      "startFrame": 1740,
+      "endFrame": 1742
+    },
+    {
+      "text": "China",
+      "start": 58.28,
+      "end": 58.655,
+      "startFrame": 1748,
+      "endFrame": 1760
+    },
+    {
+      "text": "Expenses",
+      "start": 59.231,
+      "end": 59.641,
+      "startFrame": 1777,
+      "endFrame": 1789
+    },
+    {
+      "text": "राख्न",
+      "start": 59.641,
+      "end": 59.914,
+      "startFrame": 1789,
+      "endFrame": 1797
+    },
+    {
+      "text": "सक्नुहुन्छ।",
+      "start": 59.914,
+      "end": 60.461,
+      "startFrame": 1797,
+      "endFrame": 1814
+    },
+    {
+      "text": "त्यसैगरी",
+      "start": 60.461,
+      "end": 60.871,
+      "startFrame": 1814,
+      "endFrame": 1826
+    },
+    {
+      "text": "House",
+      "start": 60.977,
+      "end": 61.171,
+      "startFrame": 1829,
+      "endFrame": 1835
+    },
+    {
+      "text": "and",
+      "start": 61.268,
+      "end": 61.455,
+      "startFrame": 1838,
+      "endFrame": 1844
+    },
+    {
+      "text": "Land",
+      "start": 61.455,
+      "end": 61.689,
+      "startFrame": 1844,
+      "endFrame": 1851
+    },
+    {
+      "text": "अथवा",
+      "start": 61.8,
+      "end": 62.073,
+      "startFrame": 1854,
+      "endFrame": 1862
+    },
+    {
+      "text": "Construction",
+      "start": 62.401,
+      "end": 62.665,
+      "startFrame": 1872,
+      "endFrame": 1880
+    },
+    {
+      "text": "Loan",
+      "start": 62.774,
+      "end": 63.04,
+      "startFrame": 1883,
+      "endFrame": 1891
+    },
+    {
+      "text": "गर्दै",
+      "start": 63.127,
+      "end": 63.244,
+      "startFrame": 1894,
+      "endFrame": 1897
+    },
+    {
+      "text": "हुनुहुन्छ",
+      "start": 63.354,
+      "end": 63.591,
+      "startFrame": 1901,
+      "endFrame": 1908
+    },
+    {
+      "text": "भने",
+      "start": 63.683,
+      "end": 63.758,
+      "startFrame": 1910,
+      "endFrame": 1913
+    },
+    {
+      "text": "तपाईंले",
+      "start": 64.107,
+      "end": 64.417,
+      "startFrame": 1923,
+      "endFrame": 1933
+    },
+    {
+      "text": "चाहिँ",
+      "start": 64.772,
+      "end": 64.87,
+      "startFrame": 1943,
+      "endFrame": 1946
+    },
+    {
+      "text": "फेरि",
+      "start": 64.977,
+      "end": 65.199,
+      "startFrame": 1949,
+      "endFrame": 1956
+    },
+    {
+      "text": "अर्को",
+      "start": 65.199,
+      "end": 65.466,
+      "startFrame": 1956,
+      "endFrame": 1964
+    },
+    {
+      "text": "extra",
+      "start": 65.466,
+      "end": 65.732,
+      "startFrame": 1964,
+      "endFrame": 1972
+    },
+    {
+      "text": "5%",
+      "start": 65.732,
+      "end": 65.866,
+      "startFrame": 1972,
+      "endFrame": 1976
+    },
+    {
+      "text": "देखि",
+      "start": 65.866,
+      "end": 66.088,
+      "startFrame": 1976,
+      "endFrame": 1983
+    },
+    {
+      "text": "10%",
+      "start": 66.088,
+      "end": 66.265,
+      "startFrame": 1983,
+      "endFrame": 1988
+    },
+    {
+      "text": "सम्म",
+      "start": 66.511,
+      "end": 66.608,
+      "startFrame": 1995,
+      "endFrame": 1998
+    },
+    {
+      "text": "राख्न",
+      "start": 66.774,
+      "end": 67.368,
+      "startFrame": 2003,
+      "endFrame": 2021
+    },
+    {
+      "text": "सक्नुहुन्छ",
+      "start": 68.158,
+      "end": 68.64,
+      "startFrame": 2045,
+      "endFrame": 2059
+    },
+    {
+      "text": "भनेर",
+      "start": 68.64,
+      "end": 68.859,
+      "startFrame": 2059,
+      "endFrame": 2066
+    },
+    {
+      "text": "भनेको",
+      "start": 68.859,
+      "end": 69.122,
+      "startFrame": 2066,
+      "endFrame": 2074
+    },
+    {
+      "text": "छ।",
+      "start": 69.122,
+      "end": 69.254,
+      "startFrame": 2074,
+      "endFrame": 2078
+    },
+    {
+      "text": "सो",
+      "start": 69.254,
+      "end": 69.386,
+      "startFrame": 2078,
+      "endFrame": 2082
+    },
+    {
+      "text": "यो",
+      "start": 69.386,
+      "end": 69.517,
+      "startFrame": 2082,
+      "endFrame": 2086
+    },
+    {
+      "text": "Retained",
+      "start": 69.517,
+      "end": 69.912,
+      "startFrame": 2086,
+      "endFrame": 2097
+    },
+    {
+      "text": "Savingको",
+      "start": 70.002,
+      "end": 70.412,
+      "startFrame": 2100,
+      "endFrame": 2112
+    },
+    {
+      "text": "Criteria",
+      "start": 71.003,
+      "end": 71.384,
+      "startFrame": 2130,
+      "endFrame": 2142
+    },
+    {
+      "text": "चाहिँ",
+      "start": 71.482,
+      "end": 71.743,
+      "startFrame": 2144,
+      "endFrame": 2152
+    },
+    {
+      "text": "नि",
+      "start": 71.743,
+      "end": 71.874,
+      "startFrame": 2152,
+      "endFrame": 2156
+    },
+    {
+      "text": "फेरि",
+      "start": 72.064,
+      "end": 72.433,
+      "startFrame": 2162,
+      "endFrame": 2173
+    },
+    {
+      "text": "अहिले",
+      "start": 72.433,
+      "end": 72.875,
+      "startFrame": 2173,
+      "endFrame": 2186
+    },
+    {
+      "text": "Governmentले",
+      "start": 72.977,
+      "end": 73.54,
+      "startFrame": 2189,
+      "endFrame": 2206
+    },
+    {
+      "text": "Change",
+      "start": 73.739,
+      "end": 73.939,
+      "startFrame": 2212,
+      "endFrame": 2218
+    },
+    {
+      "text": "गरेको",
+      "start": 74.15,
+      "end": 74.404,
+      "startFrame": 2224,
+      "endFrame": 2232
+    },
+    {
+      "text": "छ।",
+      "start": 74.404,
+      "end": 74.531,
+      "startFrame": 2232,
+      "endFrame": 2236
+    },
+    {
+      "text": "त्यसो",
+      "start": 74.531,
+      "end": 74.784,
+      "startFrame": 2236,
+      "endFrame": 2244
+    },
+    {
+      "text": "भएर",
+      "start": 74.864,
+      "end": 75.006,
+      "startFrame": 2246,
+      "endFrame": 2250
+    },
+    {
+      "text": "अहिले",
+      "start": 75.093,
+      "end": 75.368,
+      "startFrame": 2253,
+      "endFrame": 2261
+    },
+    {
+      "text": "चाहिँ",
+      "start": 75.368,
+      "end": 75.644,
+      "startFrame": 2261,
+      "endFrame": 2269
+    },
+    {
+      "text": "तपाईंले",
+      "start": 75.644,
+      "end": 76.012,
+      "startFrame": 2269,
+      "endFrame": 2280
+    },
+    {
+      "text": "5%",
+      "start": 76.012,
+      "end": 76.15,
+      "startFrame": 2280,
+      "endFrame": 2284
+    },
+    {
+      "text": "Deposit",
+      "start": 76.239,
+      "end": 76.341,
+      "startFrame": 2287,
+      "endFrame": 2290
+    },
+    {
+      "text": "Scheme",
+      "start": 76.48,
+      "end": 76.873,
+      "startFrame": 2294,
+      "endFrame": 2306
+    },
+    {
+      "text": "अँमा",
+      "start": 77.426,
+      "end": 77.643,
+      "startFrame": 2323,
+      "endFrame": 2329
+    },
+    {
+      "text": "घर",
+      "start": 77.643,
+      "end": 77.774,
+      "startFrame": 2329,
+      "endFrame": 2333
+    },
+    {
+      "text": "किन्ने",
+      "start": 77.774,
+      "end": 78.079,
+      "startFrame": 2333,
+      "endFrame": 2342
+    },
+    {
+      "text": "Planningमा",
+      "start": 78.184,
+      "end": 78.946,
+      "startFrame": 2346,
+      "endFrame": 2368
+    },
+    {
+      "text": "हुनुहुन्छ",
+      "start": 79.537,
+      "end": 80.052,
+      "startFrame": 2386,
+      "endFrame": 2402
+    },
+    {
+      "text": "भने",
+      "start": 80.135,
+      "end": 80.374,
+      "startFrame": 2404,
+      "endFrame": 2411
+    },
+    {
+      "text": "अलिकति",
+      "start": 80.374,
+      "end": 80.793,
+      "startFrame": 2411,
+      "endFrame": 2424
+    },
+    {
+      "text": "Thoughtful",
+      "start": 80.879,
+      "end": 81.359,
+      "startFrame": 2426,
+      "endFrame": 2441
+    },
+    {
+      "text": "भएर",
+      "start": 81.359,
+      "end": 81.533,
+      "startFrame": 2441,
+      "endFrame": 2446
+    },
+    {
+      "text": "यसमा",
+      "start": 81.533,
+      "end": 81.751,
+      "startFrame": 2446,
+      "endFrame": 2453
+    },
+    {
+      "text": "चाहिँ",
+      "start": 81.751,
+      "end": 82.012,
+      "startFrame": 2453,
+      "endFrame": 2460
+    },
+    {
+      "text": "तपाईंले",
+      "start": 82.164,
+      "end": 82.381,
+      "startFrame": 2465,
+      "endFrame": 2471
+    },
+    {
+      "text": "काम",
+      "start": 82.501,
+      "end": 82.683,
+      "startFrame": 2475,
+      "endFrame": 2480
+    },
+    {
+      "text": "गर्नुपर्ने",
+      "start": 82.683,
+      "end": 83.184,
+      "startFrame": 2480,
+      "endFrame": 2496
+    },
+    {
+      "text": "हुन्छ।",
+      "start": 83.184,
+      "end": 83.503,
+      "startFrame": 2496,
+      "endFrame": 2505
+    },
+    {
+      "text": "तपाईं",
+      "start": 83.503,
+      "end": 83.776,
+      "startFrame": 2505,
+      "endFrame": 2513
+    },
+    {
+      "text": "पनि",
+      "start": 83.776,
+      "end": 83.958,
+      "startFrame": 2513,
+      "endFrame": 2519
+    },
+    {
+      "text": "त्यो",
+      "start": 83.958,
+      "end": 84.185,
+      "startFrame": 2519,
+      "endFrame": 2526
+    },
+    {
+      "text": "Phaseमा",
+      "start": 84.278,
+      "end": 84.722,
+      "startFrame": 2528,
+      "endFrame": 2542
+    },
+    {
+      "text": "हुनुहुन्छ,",
+      "start": 84.816,
+      "end": 84.883,
+      "startFrame": 2544,
+      "endFrame": 2546
+    },
+    {
+      "text": "Plan",
+      "start": 85.006,
+      "end": 85.329,
+      "startFrame": 2550,
+      "endFrame": 2560
+    },
+    {
+      "text": "गर्दै",
+      "start": 85.329,
+      "end": 85.716,
+      "startFrame": 2560,
+      "endFrame": 2571
+    },
+    {
+      "text": "हुनुहुन्छ,",
+      "start": 85.805,
+      "end": 86.264,
+      "startFrame": 2574,
+      "endFrame": 2588
+    },
+    {
+      "text": "in",
+      "start": 86.264,
+      "end": 86.389,
+      "startFrame": 2588,
+      "endFrame": 2592
+    },
+    {
+      "text": "the",
+      "start": 86.471,
+      "end": 86.484,
+      "startFrame": 2594,
+      "endFrame": 2595
+    },
+    {
+      "text": "next",
+      "start": 86.484,
+      "end": 86.5,
+      "startFrame": 2595,
+      "endFrame": 2595
+    },
+    {
+      "text": "one,",
+      "start": 86.5,
+      "end": 86.516,
+      "startFrame": 2595,
+      "endFrame": 2595
+    },
+    {
+      "text": "three,",
+      "start": 86.516,
+      "end": 86.539,
+      "startFrame": 2595,
+      "endFrame": 2596
+    },
+    {
+      "text": "six",
+      "start": 86.539,
+      "end": 86.552,
+      "startFrame": 2596,
+      "endFrame": 2597
+    },
+    {
+      "text": "monthsमा",
+      "start": 86.552,
+      "end": 86.581,
+      "startFrame": 2597,
+      "endFrame": 2597
+    },
+    {
+      "text": "अथवा",
+      "start": 86.581,
+      "end": 86.598,
+      "startFrame": 2597,
+      "endFrame": 2598
+    },
+    {
+      "text": "even",
+      "start": 86.598,
+      "end": 86.614,
+      "startFrame": 2598,
+      "endFrame": 2598
+    },
+    {
+      "text": "एक",
+      "start": 86.614,
+      "end": 86.624,
+      "startFrame": 2598,
+      "endFrame": 2599
+    },
+    {
+      "text": "वर्षमा",
+      "start": 86.624,
+      "end": 86.646,
+      "startFrame": 2599,
+      "endFrame": 2599
+    },
+    {
+      "text": "भने",
+      "start": 86.646,
+      "end": 86.659,
+      "startFrame": 2599,
+      "endFrame": 2600
+    },
+    {
+      "text": "चाहिँ",
+      "start": 86.659,
+      "end": 86.679,
+      "startFrame": 2600,
+      "endFrame": 2600
+    },
+    {
+      "text": "please",
+      "start": 86.679,
+      "end": 86.702,
+      "startFrame": 2600,
+      "endFrame": 2601
+    },
+    {
+      "text": "feel",
+      "start": 86.702,
+      "end": 86.718,
+      "startFrame": 2601,
+      "endFrame": 2602
+    },
+    {
+      "text": "free",
+      "start": 86.718,
+      "end": 86.734,
+      "startFrame": 2602,
+      "endFrame": 2602
+    },
+    {
+      "text": "to",
+      "start": 86.734,
+      "end": 86.744,
+      "startFrame": 2602,
+      "endFrame": 2602
+    },
+    {
+      "text": "reach",
+      "start": 86.744,
+      "end": 86.764,
+      "startFrame": 2602,
+      "endFrame": 2603
+    },
+    {
+      "text": "out",
+      "start": 86.764,
+      "end": 86.777,
+      "startFrame": 2603,
+      "endFrame": 2603
+    },
+    {
+      "text": "to",
+      "start": 86.777,
+      "end": 86.786,
+      "startFrame": 2603,
+      "endFrame": 2604
+    },
+    {
+      "text": "me,",
+      "start": 86.786,
+      "end": 86.799,
+      "startFrame": 2604,
+      "endFrame": 2604
+    },
+    {
+      "text": "let's",
+      "start": 86.799,
+      "end": 86.819,
+      "startFrame": 2604,
+      "endFrame": 2605
+    },
+    {
+      "text": "make",
+      "start": 86.819,
+      "end": 86.835,
+      "startFrame": 2605,
+      "endFrame": 2605
+    },
+    {
+      "text": "a",
+      "start": 86.835,
+      "end": 86.842,
+      "startFrame": 2605,
+      "endFrame": 2605
+    },
+    {
+      "text": "plan",
+      "start": 86.842,
+      "end": 86.858,
+      "startFrame": 2605,
+      "endFrame": 2606
+    },
+    {
+      "text": "together.",
+      "start": 86.858,
+      "end": 86.89,
+      "startFrame": 2606,
+      "endFrame": 2607
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "yatri-video-editor",
+  "version": "1.0.0",
+  "description": "Remotion-based video editor for explainer videos with Devanagari support",
+  "type": "module",
+  "scripts": {
+    "dev": "remotion preview src/index.ts",
+    "render": "remotion render src/index.ts --codec=prores --prores-profile=4444 --pixel-format=yuva444p10le",
+    "render:sequence": "remotion render src/index.ts --sequence --image-format=png",
+    "bundle": "remotion bundle src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/animation-utils": "^4.0.0",
+    "@remotion/captions": "^4.0.0",
+    "@remotion/eslint-config": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
